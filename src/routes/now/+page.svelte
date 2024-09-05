@@ -1,6 +1,5 @@
 <script>
 	import CustomSection from '$components/CustomSection.svelte';
-	// {new Date().toISOString().slice(0, 10)}
 	import { format } from 'date-fns';
 
 	import { onMount } from 'svelte';
@@ -8,7 +7,7 @@
 	let tracks = [];
 	let movies = [];
 
-	onMount(async () => {
+	async function fetchData() {
 		try {
 			const resSongs = await fetch('/api/rss-feed/songs');
 			tracks = await resSongs.json();
@@ -24,13 +23,25 @@
 		} catch (err) {
 			console.error('Erro ao buscar músicas:', err);
 		}
+	}
+
+	function startPooling() {
+		fetchData(); // Buscar dados inicialmente
+		// Configurar o intervalo de atualização
+		return setInterval(fetchData, 10000);
+	}
+
+	onMount(() => {
+		const intervalId = startPooling();
+		// Limpar o intervalo quando o componente for destruído
+		return () => clearInterval(intervalId);
 	});
 </script>
 
 <CustomSection>
 	<div>
 		<h1 class="font-bold">now</h1>
-		<span>Last update: {format(new Date('2024-09-04T00:25:27.241Z'), 'yyyy-MM-dd hh:mm a')}.</span>
+		<span>Last update: {format(new Date('2024-09-04T15:31:17.175Z'), 'yyyy-MM-dd hh:mm a')}.</span>
 
 		<p class="mt-2">
 			This is my now page. Don't you know what that is? Look at
@@ -46,12 +57,12 @@
 			<ul class="list-disc list-outside md:list-inside">
 				<li>Living in São Carlos, SP, Brazil</li>
 				<li>
-					Cooking things at <a href="https://www.greatpeople.com.br/">Great People</a> +
+					Cooking new things at <a href="https://www.greatpeople.com.br/">Great People</a> +
 					<a href="https://gptw.com.br/">GPTW</a> ecosystem
 				</li>
-				<li>Building this using Sveltekit + TailwindCSS</li>
-				<li>Trying to work out at least 4 days a week</li>
-				<li>Running every week</li>
+				<li>Building this site using SvelteKit + TailwindCSS</li>
+				<li>Working out at least 4 days a week</li>
+				<li>Running weekly</li>
 				<li>Studying</li>
 				<li>Figuring out a reason to [?]</li>
 			</ul>
@@ -62,6 +73,10 @@
 
 	<div>
 		<h2 class="font-bold">songs</h2>
+		<p class="italic text-sm pb-2">
+			data provided by <a href="https://www.last.fm/">last.fm</a> - special thanks to
+			<a href="https://github.com/xiffy">@xiffy</a>
+		</p>
 		{#if tracks.length > 0}
 			<ul class="flex flex-col gap-4 md:gap-0">
 				{#each tracks as track}
@@ -84,6 +99,9 @@
 
 	<div>
 		<h2 class="font-bold">movies</h2>
+		<p class="italic text-sm pb-2">
+			data provided by <a href="https://letterboxd.com/">letterboxd.com</a>
+		</p>
 		{#if movies.length > 0}
 			<ul class="flex flex-col gap-4 md:gap-0">
 				{#each movies as movie}
