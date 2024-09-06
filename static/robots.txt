@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /
 
-Sitemap:
+Sitemap: https://minari.xyz/sitemap.xml
