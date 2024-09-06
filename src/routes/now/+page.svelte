@@ -17,11 +17,11 @@
 		}
 
 		try {
-			const resMusics = await fetch('/api/rss-feed/movies');
-			movies = await resMusics.json();
+			const resMovies = await fetch('/api/rss-feed/movies');
+			movies = await resMovies.json();
 			movies = movies.slice(0, 10);
 		} catch (err) {
-			console.error('Erro ao buscar músicas:', err);
+			console.error('Erro ao buscar filmes:', err);
 		}
 	}
 

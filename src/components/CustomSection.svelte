@@ -3,7 +3,6 @@
 
 	let canGoBack = false;
 	if (typeof window !== 'undefined') {
-		console.log('window.history', window.history);
 		canGoBack = window.history.length > 1 && $page.url.pathname !== '/';
 	}
 
