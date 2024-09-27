@@ -5,3 +5,12 @@
 a {
   @apply underline text-blue-600 hover:text-blue-800 visited:text-purple-600
 }
+
+/* gambiarra para a barra de rolagem nao deslocar a tela */
+html {
+  overflow-y: scroll;
+}
+
+/* html, body {
+  font-family: serif;
+} */
