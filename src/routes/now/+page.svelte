@@ -41,11 +41,11 @@
 <CustomSection>
 	<div>
 		<h1 class="font-bold">now</h1>
-		<span>Last update: {format(new Date('2024-09-04T15:31:17.175Z'), 'yyyy-MM-dd hh:mm a')}.</span>
+		<span>Last update: {format(new Date('2024-09-27T04:24:11.200Z'), 'yyyy-MM-dd hh:mm a')}.</span>
 
 		<p class="mt-2">
 			This is my now page. Don't you know what that is? Look at
-			<a href="https://nownownow.com/about">nownownow</a>.
+			<a href="https://nownownow.com/about" target="_blank" rel="noopener noreferrer">nownownow</a>.
 		</p>
 	</div>
 
@@ -57,14 +57,24 @@
 			<ul class="list-disc list-outside md:list-inside">
 				<li>Living in São Carlos, SP, Brazil</li>
 				<li>
-					Cooking new things at <a href="https://www.greatpeople.com.br/">Great People</a> +
-					<a href="https://gptw.com.br/">GPTW</a> ecosystem
+					Cooking new things at <a
+						href="https://www.greatpeople.com.br/"
+						target="_blank"
+						rel="noopener noreferrer">Great People</a
+					>
+					+
+					<a href="https://gptw.com.br/" target="_blank" rel="noopener noreferrer">GPTW</a> ecosystem
 				</li>
-				<li>Building this site using SvelteKit + TailwindCSS</li>
-				<li>Working out at least 4 days a week</li>
-				<li>Running weekly</li>
-				<li>Studying</li>
-				<li>Figuring out a reason to [?]</li>
+				<li>Studying (quite a lot)</li>
+				<li>Building this site using SvelteKit + TailwindCSS (without much progress though)</li>
+				<li>Trying to find time to go back to the gym and run</li>
+				<li>
+					[?] <a
+						href="https://www.instagram.com/p/C67eF4ZNLCM/?img_index=2"
+						target="_blank"
+						rel="noopener noreferrer">electric soul</a
+					>
+				</li>
 			</ul>
 		</span>
 	</div>
@@ -74,8 +84,11 @@
 	<div>
 		<h2 class="font-bold">songs</h2>
 		<p class="italic text-sm pb-2">
-			data provided by <a href="https://www.last.fm/">last.fm</a> - special thanks to
-			<a href="https://github.com/xiffy">@xiffy</a>
+			data provided by <a href="https://www.last.fm/" target="_blank" rel="noopener noreferrer"
+				>last.fm</a
+			>
+			- special thanks to
+			<a href="https://github.com/xiffy" target="_blank" rel="noopener noreferrer">@xiffy</a>
 		</p>
 		{#if tracks.length > 0}
 			<ul class="flex flex-col gap-4 md:gap-0">
@@ -100,7 +113,9 @@
 	<div>
 		<h2 class="font-bold">movies</h2>
 		<p class="italic text-sm pb-2">
-			data provided by <a href="https://letterboxd.com/">letterboxd.com</a>
+			data provided by <a href="https://letterboxd.com/" target="_blank" rel="noopener noreferrer"
+				>letterboxd.com</a
+			>
 		</p>
 		{#if movies.length > 0}
 			<ul class="flex flex-col gap-4 md:gap-0">

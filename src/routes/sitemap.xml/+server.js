@@ -12,7 +12,7 @@ export async function GET() {
 		>
 			<url>
 				<loc>https://minari.xyz/</loc>
-				<lastmod>2024-09-26</lastmod>
+				<lastmod>2024-09-27</lastmod>
 				<changefreq>monthly</changefreq>
       	<priority>1.0</priority>
 			</url>
