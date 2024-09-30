@@ -2,7 +2,7 @@ import { error } from '@sveltejs/kit';
 import { xml2js } from 'xml-js';
 
 export async function GET() {
-  const url = 'https://lfm.xiffy.nl/skynx';
+  const url = 'https://letterboxd.com/reliquias/rss/';
 
   try {
     const res = await fetch(url);
@@ -15,8 +15,11 @@ export async function GET() {
       date: item.pubDate?._text ? new Date(item.pubDate?._text).toISOString() : null
     }));
 
-    return new Response(JSON.stringify(items), {
-      headers: { 'Content-Type': 'application/json' }
+    return new Response(JSON.stringify(items.slice(0, 10)), {
+      headers: {
+        'Content-Type': 'application/json',
+        'Cache-Control': 'max-age=99'
+      }
     });
   } catch (err) {
     throw error(500, 'Erro ao buscar o feed RSS');

@@ -11,7 +11,7 @@
 		try {
 			const resSongs = await fetch('/api/rss-feed/songs');
 			tracks = await resSongs.json();
-			tracks = tracks.slice(0, 10);
+			tracks = tracks;
 		} catch (err) {
 			console.error('Erro ao buscar músicas:', err);
 		}
@@ -19,7 +19,7 @@
 		try {
 			const resMovies = await fetch('/api/rss-feed/movies');
 			movies = await resMovies.json();
-			movies = movies.slice(0, 10);
+			movies = movies;
 		} catch (err) {
 			console.error('Erro ao buscar filmes:', err);
 		}
@@ -28,7 +28,7 @@
 	function startPooling() {
 		fetchData(); // Buscar dados inicialmente
 		// Configurar o intervalo de atualização
-		return setInterval(fetchData, 10000);
+		return setInterval(fetchData, 100000);
 	}
 
 	onMount(() => {
