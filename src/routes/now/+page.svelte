@@ -4,24 +4,67 @@
 
 	import { onMount } from 'svelte';
 
-	let tracks = [];
-	let movies = [];
+	let tracks = {
+		loading: true,
+		data: [],
+		error: false
+	};
+	let movies = {
+		loading: true,
+		data: [],
+		error: false
+	};
+	let books = {
+		loading: true,
+		data: [],
+		error: false
+	};
 
 	async function fetchData() {
 		try {
 			const resSongs = await fetch('/api/rss-feed/songs');
-			tracks = await resSongs.json();
-			tracks = tracks;
+			if (resSongs.status !== 200) {
+				tracks.error = true;
+				return;
+			}
+
+			tracks.data = await resSongs.json();
 		} catch (err) {
 			console.error('Erro ao buscar músicas:', err);
+			tracks.error = true;
+		} finally {
+			tracks.loading = false;
 		}
 
 		try {
 			const resMovies = await fetch('/api/rss-feed/movies');
-			movies = await resMovies.json();
-			movies = movies;
+			if (resMovies.status !== 200) {
+				movies.error = true;
+				return;
+			}
+
+			movies.data = await resMovies.json();
 		} catch (err) {
 			console.error('Erro ao buscar filmes:', err);
+			movies.error = true;
+		} finally {
+			movies.loading = false;
+		}
+
+		try {
+			const resBooks = await fetch('/api/rss-feed/books');
+			if (resBooks.status !== 200) {
+				books.error = true;
+				return;
+			}
+
+			books.data = await resBooks.json();
+		} catch (err) {
+			console.error('Erro ao buscar livros:', err);
+			books.error = true;
+		} finally {
+			books.loading = false;
+			console.log(books);
 		}
 	}
 
@@ -66,7 +109,7 @@
 					<a href="https://gptw.com.br/" target="_blank" rel="noopener noreferrer">GPTW</a> ecosystem
 				</li>
 				<li>Studying (quite a lot)</li>
-				<li>Building this site using SvelteKit + TailwindCSS (without much progress though)</li>
+				<li>Building this site using SvelteKit + TailwindCSS (no much progress though)</li>
 				<li>Trying to find time to go back to the gym and run</li>
 				<li>
 					[?] <a
@@ -90,9 +133,13 @@
 			- special thanks to
 			<a href="https://github.com/xiffy" target="_blank" rel="noopener noreferrer">@xiffy</a>
 		</p>
-		{#if tracks.length > 0}
+		{#if tracks.loading}
+			<p>Loading...</p>
+		{:else if tracks.error}
+			<p>Something went wrong</p>
+		{:else if tracks.data.length > 0}
 			<ul class="flex flex-col gap-4 md:gap-0">
-				{#each tracks as track}
+				{#each tracks.data as track}
 					<li class="flex justify-between flex-wrap">
 						<p>
 							{!!track.date
@@ -104,7 +151,7 @@
 				{/each}
 			</ul>
 		{:else}
-			<p>Loading...</p>
+			<p>Nothing to show</p>
 		{/if}
 	</div>
 
@@ -117,21 +164,25 @@
 				>letterboxd.com</a
 			>
 		</p>
-		{#if movies.length > 0}
+		{#if movies.loading}
+			<p>Loading...</p>
+		{:else if movies.error}
+			<p>Something went wrong</p>
+		{:else if movies.data.length > 0}
 			<ul class="flex flex-col gap-4 md:gap-0">
-				{#each movies as movie}
+				{#each movies.data as movie}
 					<li class="flex justify-between flex-wrap">
 						<p>
 							{!!movie.date
 								? format(new Date(movie.date).toISOString(), 'yyyy-MM-dd hh:mm a')
-								: 'Playing at the moment'}
+								: 'Last'}
 						</p>
 						<span>{movie.title}</span>
 					</li>
 				{/each}
 			</ul>
 		{:else}
-			<p>Loading...</p>
+			<p>Nothing to show</p>
 		{/if}
 	</div>
 
@@ -139,6 +190,32 @@
 
 	<div>
 		<h2 class="font-bold">books</h2>
-		<p>Still in progress...</p>
-	</div>
-</CustomSection>
+		<p class="italic text-sm pb-2">
+			data provided by <a
+				href="https://www.goodreads.com/"
+				target="_blank"
+				rel="noopener noreferrer">goodreads.com</a
+			>
+		</p>
+		{#if books.loading}
+			<p>Loading...</p>
+		{:else if books.error}
+			<p>Something went wrong</p>
+		{:else if books.data.length > 0}
+			<ul class="flex flex-col gap-4 md:gap-1">
+				{#each books.data as book}
+					<li class="flex justify-between flex-wrap">
+						<p>
+							{!!book.date
+								? format(new Date(book.date).toISOString(), 'yyyy-MM-dd hh:mm a')
+								: 'Last'}
+						</p>
+						<span>{book.title}</span>
+					</li>
+				{/each}
+			</ul>
+		{:else}
+			<p>Nothing to show</p>
+		{/if}
+	</div></CustomSection
+>

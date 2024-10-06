@@ -22,6 +22,7 @@ export async function GET() {
       }
     });
   } catch (err) {
+    console.error('Erro ao buscar o feed RSS - movies', err);
     throw error(500, 'Erro ao buscar o feed RSS');
   }
 }
