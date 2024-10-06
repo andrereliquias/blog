@@ -6,6 +6,17 @@ declare global {
 		// interface Locals {}
 		// interface PageData {}
 		// interface PageState {}
+		interface rssApiResponse {
+			date: string | null,
+			title: string | null
+		}
+		interface XmlResult {
+			rss: {
+				channel: {
+					item: XmlItem[];
+				};
+			};
+		}
 		interface Platform {
 			env: {
 				COUNTER: DurableObjectNamespace;
@@ -16,6 +27,12 @@ declare global {
 			caches: CacheStorage & { default: Cache };
 		}
 	}
+}
+
+interface XmlItem {
+  title: { _text: string };
+  pubDate: { _text?: string };
+  description: { _cdata?: string };
 }
 
 export {};

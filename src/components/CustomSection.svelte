@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 	import { page } from '$app/stores';
 
 	let canGoBack = false;
@@ -10,10 +10,10 @@
 		history.back();
 	}
 
-	import { goto, afterNavigate } from '$app/navigation';
+	import { afterNavigate } from '$app/navigation';
 	import { base } from '$app/paths';
 
-	let previousPage = base;
+	let previousPage: string = base;
 
 	afterNavigate(({ from }) => {
 		previousPage = from?.url.pathname || previousPage;

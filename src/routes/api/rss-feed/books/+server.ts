@@ -11,8 +11,8 @@ export async function GET() {
 		const xmlText = await res.text();
 
 		// Convertendo XML para JSON
-		const result = xml2js(xmlText, { compact: true, spaces: 4 });
-		const items = result.rss.channel.item
+		const result = xml2js(xmlText, { compact: true }) as App.XmlResult;
+		const items: App.rssApiResponse[] = result.rss.channel.item
 			? result.rss.channel.item.map((item) => {
 					const descriptionCdata = item.description._cdata || '';
 					const $ = cheerio.load(descriptionCdata);

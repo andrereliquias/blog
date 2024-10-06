@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 	import CustomSection from '$components/CustomSection.svelte';
 	import { format } from 'date-fns';
 
@@ -6,17 +6,17 @@
 
 	let tracks = {
 		loading: true,
-		data: [],
+		data: [] as App.rssApiResponse[],
 		error: false
 	};
 	let movies = {
 		loading: true,
-		data: [],
+		data: [] as App.rssApiResponse[],
 		error: false
 	};
 	let books = {
 		loading: true,
-		data: [],
+		data: [] as App.rssApiResponse[],
 		error: false
 	};
 
