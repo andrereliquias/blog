@@ -1,3 +1,7 @@
+<script>
+	import underConstructionGif from '$lib/assets/under-construction.gif'
+</script>
+
 <header class="w-full">
 	<nav>
 		<ul class="flex gap-x-5 flex-wrap">
@@ -26,4 +30,9 @@
 			</li>
 		</ul>
 	</nav>
+
+	<div class="mt-5">
+		<img src={underConstructionGif} alt="Under construction gif"/>
+	</div>
+	<div id="app"></div>
 </header>
