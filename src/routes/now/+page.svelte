@@ -4,21 +4,21 @@
 
 	import { onMount } from 'svelte';
 
-	let tracks = {
+	let tracks = $state({
 		loading: true,
 		data: [] as App.rssApiResponse[],
 		error: false
-	};
-	let movies = {
+	});
+	let movies = $state({
 		loading: true,
 		data: [] as App.rssApiResponse[],
 		error: false
-	};
-	let books = {
+	});
+	let books = $state({
 		loading: true,
 		data: [] as App.rssApiResponse[],
 		error: false
-	};
+	});
 
 	async function fetchData() {
 		try {

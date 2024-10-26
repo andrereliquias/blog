@@ -1,7 +1,12 @@
 <script lang="ts">
 	import { page } from '$app/stores';
 
-	let canGoBack = false;
+	interface Props {
+		children?: import('svelte').Snippet;
+	}
+
+	let { children }: Props = $props();
+	let canGoBack = $state(false);
 	if (typeof window !== 'undefined') {
 		canGoBack = window.history.length > 1 && $page.url.pathname !== '/';
 	}
@@ -13,7 +18,7 @@
 	import { afterNavigate } from '$app/navigation';
 	import { base } from '$app/paths';
 
-	let previousPage: string = base;
+	let previousPage: string = $state(base);
 
 	afterNavigate(({ from }) => {
 		previousPage = from?.url.pathname || previousPage;
@@ -22,10 +27,10 @@
 
 <section class="flex flex-col gap-5">
 	{#if canGoBack && previousPage}
-		<button on:click={goBack} class="w-fit text-blue-600 hover:text-blue-800 hover:underline"
+		<button onclick={goBack} class="w-fit text-blue-600 hover:text-blue-800 hover:underline"
 			>← go back</button
 		>
 	{/if}
 
-	<slot />
+	{@render children?.()}
 </section>
