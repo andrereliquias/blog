@@ -50,5 +50,8 @@
 		"date-fns": "^4.1.0",
 		"layerchart": "^0.54.1",
 		"xml-js": "^1.6.11"
-	}
+	},
+  "optionalDependencies": {
+    "@rollup/rollup-linux-x64-gnu": "^4.24.0"
+  }
 }
