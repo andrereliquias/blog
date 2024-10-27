@@ -6,10 +6,23 @@
 	}
 
 	let { children }: Props = $props();
+
+	import { page } from '$app/stores';
+	import { onMount } from 'svelte';
+
+	let isFullScreen = $state(false);
+
+	onMount(() => {
+		const url = $page.url;
+		isFullScreen =
+			(url.searchParams.get('full') && Number(url.searchParams.get('full')) === 1) || false;
+	});
 </script>
 
 <div class="flex flex-col mx-auto w-72 md:w-5/12 text-base gap-y-8 text-justify my-10">
-	<Header />
+	{#if !isFullScreen}
+		<Header />
+	{/if}
 
 	<main>
 		{@render children?.()}

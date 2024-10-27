@@ -1,0 +1,2641 @@
+{
+  "feed": [
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l4zwuugoqw2f",
+              "cid": "bafyreicanfzeq5jamnsdg4j2mmiirvdixiobey5k72zr3tlxpal3smbcya",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-09-26T05:42:51.717Z",
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "Insônia da pega"
+              },
+              "replyCount": 0,
+              "repostCount": 0,
+              "likeCount": 0,
+              "quoteCount": 0,
+              "indexedAt": "2024-09-26T05:42:51.717Z",
+              "labels": []
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l4z3regflh2y",
+              "cid": "bafyreici2ec5savdjwgu3nqkaim2q4yo2pmota73l2ijkpkqvgkhnd4u6m",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-09-25T21:37:43.768Z",
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "Eae nubank bora pro war room"
+              },
+              "replyCount": 0,
+              "repostCount": 0,
+              "likeCount": 0,
+              "quoteCount": 0,
+              "indexedAt": "2024-09-25T21:37:43.768Z",
+              "labels": []
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:36tonoyp4p77csgnod5pkq6j/app.bsky.feed.post/3l4hsaldi3p2g",
+              "cid": "bafyreig55absry7aabrc57e4de6odzrzo6k7xovqsdk6vcwrue4wqvmgb4",
+              "author": {
+                  "did": "did:plc:36tonoyp4p77csgnod5pkq6j",
+                  "handle": "fluminense.com.br",
+                  "displayName": "Fluminense F.C.",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:36tonoyp4p77csgnod5pkq6j/bafkreibiyvtenxbxxekgtyon4xjdyp4zvcjapsocriax6eouh2boibqbmy@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "none"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-08-31T11:49:22.101Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-09-19T00:32:01.181Z",
+                  "embed": {
+                      "$type": "app.bsky.embed.video",
+                      "aspectRatio": {
+                          "height": 3840,
+                          "width": 2160
+                      },
+                      "video": {
+                          "$type": "blob",
+                          "ref": {
+                              "$link": "bafkreib6po3opemyznyej4ozwbvb4ilvhpb4cik5264lzfulekmeaezsfu"
+                          },
+                          "mimeType": "video/mp4",
+                          "size": 5814260
+                      }
+                  },
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "Muito prazer, Ed Sheeran! Esta é a Melhor e Mais Bonita Torcida do Mundo."
+              },
+              "embed": {
+                  "$type": "app.bsky.embed.video#view",
+                  "cid": "bafkreib6po3opemyznyej4ozwbvb4ilvhpb4cik5264lzfulekmeaezsfu",
+                  "playlist": "https://video.bsky.app/watch/did%3Aplc%3A36tonoyp4p77csgnod5pkq6j/bafkreib6po3opemyznyej4ozwbvb4ilvhpb4cik5264lzfulekmeaezsfu/playlist.m3u8",
+                  "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A36tonoyp4p77csgnod5pkq6j/bafkreib6po3opemyznyej4ozwbvb4ilvhpb4cik5264lzfulekmeaezsfu/thumbnail.jpg",
+                  "aspectRatio": {
+                      "height": 3840,
+                      "width": 2160
+                  }
+              },
+              "replyCount": 73,
+              "repostCount": 481,
+              "likeCount": 3027,
+              "quoteCount": 133,
+              "indexedAt": "2024-09-19T00:32:01.181Z",
+              "labels": []
+          },
+          "reason": {
+              "$type": "app.bsky.feed.defs#reasonRepost",
+              "by": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "indexedAt": "2024-09-19T00:32:47.541Z"
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l4hqtw7wof2n",
+              "cid": "bafyreigdi37b6zu4pxd3ahbf7oi5casranh55u3hn7etrmfgxkuwbxiqhq",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-09-19T00:07:02.551Z",
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "always you"
+              },
+              "replyCount": 0,
+              "repostCount": 0,
+              "likeCount": 0,
+              "quoteCount": 0,
+              "indexedAt": "2024-09-19T00:07:02.551Z",
+              "labels": []
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l4grpy3hdq2z",
+              "cid": "bafyreib4ke7uruylmoxxsfrucjlitciymeuvhohlxc3yh3bqe5xs6cuc6q",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-09-18T14:50:04.512Z",
+                  "langs": [
+                      "pt"
+                  ],
+                  "reply": {
+                      "parent": {
+                          "cid": "bafyreihlqu7rvvuybxpodz7rcrz3o63cybkjqopa5o3kil6w2qhpd4pymi",
+                          "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l4gr7czuou2t"
+                      },
+                      "root": {
+                          "cid": "bafyreihlqu7rvvuybxpodz7rcrz3o63cybkjqopa5o3kil6w2qhpd4pymi",
+                          "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l4gr7czuou2t"
+                      }
+                  },
+                  "text": "xandao nao me multa, so abri pra testar 😭"
+              },
+              "replyCount": 0,
+              "repostCount": 0,
+              "likeCount": 0,
+              "quoteCount": 0,
+              "indexedAt": "2024-09-18T14:50:04.512Z",
+              "labels": []
+          },
+          "reply": {
+              "root": {
+                  "$type": "app.bsky.feed.defs#postView",
+                  "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l4gr7czuou2t",
+                  "cid": "bafyreihlqu7rvvuybxpodz7rcrz3o63cybkjqopa5o3kil6w2qhpd4pymi",
+                  "author": {
+                      "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                      "handle": "andrwr.bsky.social",
+                      "displayName": "andré",
+                      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                      "associated": {
+                          "chat": {
+                              "allowIncoming": "following"
+                          }
+                      },
+                      "labels": [],
+                      "createdAt": "2024-04-07T20:14:33.329Z"
+                  },
+                  "record": {
+                      "$type": "app.bsky.feed.post",
+                      "createdAt": "2024-09-18T14:40:44.820Z",
+                      "langs": [
+                          "pt"
+                      ],
+                      "text": "twitter no desktop por um momento carregou mas dps caiu dnv"
+                  },
+                  "replyCount": 1,
+                  "repostCount": 0,
+                  "likeCount": 0,
+                  "quoteCount": 0,
+                  "indexedAt": "2024-09-18T14:40:44.820Z",
+                  "labels": []
+              },
+              "parent": {
+                  "$type": "app.bsky.feed.defs#postView",
+                  "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l4gr7czuou2t",
+                  "cid": "bafyreihlqu7rvvuybxpodz7rcrz3o63cybkjqopa5o3kil6w2qhpd4pymi",
+                  "author": {
+                      "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                      "handle": "andrwr.bsky.social",
+                      "displayName": "andré",
+                      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                      "associated": {
+                          "chat": {
+                              "allowIncoming": "following"
+                          }
+                      },
+                      "labels": [],
+                      "createdAt": "2024-04-07T20:14:33.329Z"
+                  },
+                  "record": {
+                      "$type": "app.bsky.feed.post",
+                      "createdAt": "2024-09-18T14:40:44.820Z",
+                      "langs": [
+                          "pt"
+                      ],
+                      "text": "twitter no desktop por um momento carregou mas dps caiu dnv"
+                  },
+                  "replyCount": 1,
+                  "repostCount": 0,
+                  "likeCount": 0,
+                  "quoteCount": 0,
+                  "indexedAt": "2024-09-18T14:40:44.820Z",
+                  "labels": []
+              }
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l4gr7czuou2t",
+              "cid": "bafyreihlqu7rvvuybxpodz7rcrz3o63cybkjqopa5o3kil6w2qhpd4pymi",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-09-18T14:40:44.820Z",
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "twitter no desktop por um momento carregou mas dps caiu dnv"
+              },
+              "replyCount": 1,
+              "repostCount": 0,
+              "likeCount": 0,
+              "quoteCount": 0,
+              "indexedAt": "2024-09-18T14:40:44.820Z",
+              "labels": []
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:ajzgigem2lglbobyadmr3xyo/app.bsky.feed.post/3l42sxscjvy25",
+              "cid": "bafyreidigtdksluqa7nu4rrz3u2yblg2pnqn2qrulnjruivna2eabyh2oe",
+              "author": {
+                  "did": "did:plc:ajzgigem2lglbobyadmr3xyo",
+                  "handle": "pedroaguiar.bsky.social",
+                  "displayName": "Pedro Aguiar",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ajzgigem2lglbobyadmr3xyo/bafkreigv5ln4kzqb42zq27lqeyfg6wevuc3fdoajuhflnubuqvm64nknim@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2023-07-03T14:20:20.893Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-09-13T20:40:22.638Z",
+                  "embed": {
+                      "$type": "app.bsky.embed.images",
+                      "images": [
+                          {
+                              "alt": "",
+                              "aspectRatio": {
+                                  "height": 203,
+                                  "width": 203
+                              },
+                              "image": {
+                                  "$type": "blob",
+                                  "ref": {
+                                      "$link": "bafkreiedyc25mxcbcggr25rlaptarlece7644xgbkv7w3lhnud2tz2vhya"
+                                  },
+                                  "mimeType": "image/jpeg",
+                                  "size": 35231
+                              }
+                          }
+                      ]
+                  },
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "Quero pedir licença para contar uma história:\n\n*Mariana Stanton*, ou Mári, para os amigos, é uma bióloga entomóloga brasileira, carioca, formada pela Unicamp (graduação e mestrado) e doutora em Ecologia Química pelo Max Planck de Jena, na Alemanha. Seu vínculo mais recente é como pós-doc no IQ/USP."
+              },
+              "embed": {
+                  "$type": "app.bsky.embed.images#view",
+                  "images": [
+                      {
+                          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ajzgigem2lglbobyadmr3xyo/bafkreiedyc25mxcbcggr25rlaptarlece7644xgbkv7w3lhnud2tz2vhya@jpeg",
+                          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ajzgigem2lglbobyadmr3xyo/bafkreiedyc25mxcbcggr25rlaptarlece7644xgbkv7w3lhnud2tz2vhya@jpeg",
+                          "alt": "",
+                          "aspectRatio": {
+                              "height": 203,
+                              "width": 203
+                          }
+                      }
+                  ]
+              },
+              "replyCount": 5,
+              "repostCount": 31,
+              "likeCount": 75,
+              "quoteCount": 5,
+              "indexedAt": "2024-09-13T20:40:22.638Z",
+              "labels": []
+          },
+          "reason": {
+              "$type": "app.bsky.feed.defs#reasonRepost",
+              "by": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "indexedAt": "2024-09-17T18:35:24.850Z"
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l45ol5uisf2a",
+              "cid": "bafyreicnajs5jg6hqn6ctgcjthxbobcgv272t36sprgupkigczb5rwbnw4",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-09-14T23:59:43.031Z",
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "eu ainda vou morar nesse lugar depois que terminar essa bomba"
+              },
+              "replyCount": 0,
+              "repostCount": 0,
+              "likeCount": 1,
+              "quoteCount": 0,
+              "indexedAt": "2024-09-14T23:59:43.031Z",
+              "labels": []
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l44xu6hequ23",
+              "cid": "bafyreiaizq7ssi5lp6yjged4njldxfxokhlp7w3jrtcvoeqjjnxmzk4l7q",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-09-14T17:13:10.492Z",
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "o rio de janeiro continua lindo"
+              },
+              "replyCount": 0,
+              "repostCount": 0,
+              "likeCount": 1,
+              "quoteCount": 0,
+              "indexedAt": "2024-09-14T17:13:10.492Z",
+              "labels": []
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l3zqtde6hk2b",
+              "cid": "bafyreid6tc3lf77al7ydz3rkytrdhvebrxiphqhorbknjujpqsc2apragu",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-09-13T10:29:26.153Z",
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "que pesadelo esse trânsito"
+              },
+              "replyCount": 0,
+              "repostCount": 0,
+              "likeCount": 0,
+              "quoteCount": 0,
+              "indexedAt": "2024-09-13T10:29:26.153Z",
+              "labels": []
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:s7xw6pqvc72ha73bogjqp4m3/app.bsky.feed.post/3l3nkavdtz32y",
+              "cid": "bafyreifkqg2i4edem3cuvzrl23nx74gq2iupltoaogfu75ax37kdvqzldi",
+              "author": {
+                  "did": "did:plc:s7xw6pqvc72ha73bogjqp4m3",
+                  "handle": "drewmca.dev",
+                  "displayName": "drew mca",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s7xw6pqvc72ha73bogjqp4m3/bafkreigtragdwdgjcu6r5qvwoqzhkg5qka2kw5gfhmvxkp2pktehtkl7mm@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "all"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2023-05-04T18:54:26.849Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-09-08T13:59:48.787Z",
+                  "embed": {
+                      "$type": "app.bsky.embed.images",
+                      "images": [
+                          {
+                              "alt": "bsky screenshot translating “calma calabreso” in brazilian portuguese to “calm down pepperoni”",
+                              "aspectRatio": {
+                                  "height": 1765,
+                                  "width": 1125
+                              },
+                              "image": {
+                                  "$type": "blob",
+                                  "ref": {
+                                      "$link": "bafkreiefc6drbzy62tu4hrw33wzptxa2hskv5hgdh5p63wajefukjkbmsi"
+                                  },
+                                  "mimeType": "image/jpeg",
+                                  "size": 687445
+                              }
+                          }
+                      ]
+                  },
+                  "langs": [
+                      "en"
+                  ],
+                  "reply": {
+                      "parent": {
+                          "cid": "bafyreidlqre3oviulnecqst6h7p3bszrymawgsawcaskyj4oiyj47pj4y4",
+                          "uri": "at://did:plc:rdiqfmo5fmkxz6zznd2ys5ug/app.bsky.feed.post/3l3nix7ii6e2o"
+                      },
+                      "root": {
+                          "cid": "bafyreie3xghl2cvx4ofnhdrjar6urshahqhtlb3mo7swxqtf45emhaox6q",
+                          "uri": "at://did:plc:fkieonsi5arr6cfa6ehnnv3a/app.bsky.feed.post/3l3nf2cbhwn26"
+                      }
+                  },
+                  "text": "they can be hidden gems sometimes"
+              },
+              "embed": {
+                  "$type": "app.bsky.embed.images#view",
+                  "images": [
+                      {
+                          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s7xw6pqvc72ha73bogjqp4m3/bafkreiefc6drbzy62tu4hrw33wzptxa2hskv5hgdh5p63wajefukjkbmsi@jpeg",
+                          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:s7xw6pqvc72ha73bogjqp4m3/bafkreiefc6drbzy62tu4hrw33wzptxa2hskv5hgdh5p63wajefukjkbmsi@jpeg",
+                          "alt": "bsky screenshot translating “calma calabreso” in brazilian portuguese to “calm down pepperoni”",
+                          "aspectRatio": {
+                              "height": 1765,
+                              "width": 1125
+                          }
+                      }
+                  ]
+              },
+              "replyCount": 35,
+              "repostCount": 724,
+              "likeCount": 3191,
+              "quoteCount": 418,
+              "indexedAt": "2024-09-08T13:59:48.787Z",
+              "labels": []
+          },
+          "reason": {
+              "$type": "app.bsky.feed.defs#reasonRepost",
+              "by": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "indexedAt": "2024-09-11T13:45:01.809Z"
+          },
+          "reply": {
+              "root": {
+                  "$type": "app.bsky.feed.defs#postView",
+                  "uri": "at://did:plc:fkieonsi5arr6cfa6ehnnv3a/app.bsky.feed.post/3l3nf2cbhwn26",
+                  "cid": "bafyreie3xghl2cvx4ofnhdrjar6urshahqhtlb3mo7swxqtf45emhaox6q",
+                  "author": {
+                      "did": "did:plc:fkieonsi5arr6cfa6ehnnv3a",
+                      "handle": "trulyaliem.bsky.social",
+                      "displayName": "allison steele, organic human person",
+                      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fkieonsi5arr6cfa6ehnnv3a/bafkreibavyw34vmd5rygf3jvzwhbqvw5m5htmd6jpjscpiddfyszgql5ty@jpeg",
+                      "associated": {
+                          "chat": {
+                              "allowIncoming": "following"
+                          }
+                      },
+                      "labels": [
+                          {
+                              "src": "did:plc:fkieonsi5arr6cfa6ehnnv3a",
+                              "uri": "at://did:plc:fkieonsi5arr6cfa6ehnnv3a/app.bsky.actor.profile/self",
+                              "cid": "bafyreigyajpzmzfiqlfzsdthl6bloenleqqxmrmj42wb4bplljpljigz6e",
+                              "val": "!no-unauthenticated",
+                              "cts": "1970-01-01T00:00:00.000Z"
+                          }
+                      ],
+                      "createdAt": "2023-05-24T03:54:42.049Z"
+                  },
+                  "record": {
+                      "$type": "app.bsky.feed.post",
+                      "createdAt": "2024-09-08T12:26:40.666Z",
+                      "langs": [
+                          "en"
+                      ],
+                      "text": "dear bluesky,\n\nisn't it great that we have such an influx of brazilians? the only trouble is that most people do not speak portuguese. and asking people to post only in english in the year of someone else's lord 2024 seems v shitty.\n\ncan we get some autotranslate going on here please?\n\nlove,\nallison"
+                  },
+                  "replyCount": 87,
+                  "repostCount": 186,
+                  "likeCount": 2736,
+                  "quoteCount": 39,
+                  "indexedAt": "2024-09-08T12:26:38.924Z",
+                  "labels": []
+              },
+              "parent": {
+                  "$type": "app.bsky.feed.defs#postView",
+                  "uri": "at://did:plc:rdiqfmo5fmkxz6zznd2ys5ug/app.bsky.feed.post/3l3nix7ii6e2o",
+                  "cid": "bafyreidlqre3oviulnecqst6h7p3bszrymawgsawcaskyj4oiyj47pj4y4",
+                  "author": {
+                      "did": "did:plc:rdiqfmo5fmkxz6zznd2ys5ug",
+                      "handle": "dlameri.bsky.social",
+                      "displayName": "Dimitri Lameri",
+                      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rdiqfmo5fmkxz6zznd2ys5ug/bafkreih4ktlplre4vonh6i7bgedesb2ubhftpaetbhlxkdfntbaqqiasam@jpeg",
+                      "associated": {
+                          "chat": {
+                              "allowIncoming": "following"
+                          }
+                      },
+                      "labels": [],
+                      "createdAt": "2024-08-31T04:32:21.902Z"
+                  },
+                  "record": {
+                      "$type": "app.bsky.feed.post",
+                      "createdAt": "2024-09-08T13:36:30.117Z",
+                      "langs": [
+                          "en"
+                      ],
+                      "reply": {
+                          "parent": {
+                              "cid": "bafyreiafyw5dwufysktg4kur57rjjoch3mmkm5qnfpwpgojtnzic7762cy",
+                              "uri": "at://did:plc:fkieonsi5arr6cfa6ehnnv3a/app.bsky.feed.post/3l3nf5qdvbw2r"
+                          },
+                          "root": {
+                              "cid": "bafyreie3xghl2cvx4ofnhdrjar6urshahqhtlb3mo7swxqtf45emhaox6q",
+                              "uri": "at://did:plc:fkieonsi5arr6cfa6ehnnv3a/app.bsky.feed.post/3l3nf2cbhwn26"
+                          }
+                      },
+                      "text": "To be honest, brazilian shitpost are usually suuper contextualized and full of nuances, i’m not sure translating stuff like “casca de bala” to “candy shell” would be enough. But I do understand that it would be great to at least try, I was used to walk around foreign bubbles on twitter too lol."
+                  },
+                  "replyCount": 13,
+                  "repostCount": 17,
+                  "likeCount": 705,
+                  "quoteCount": 35,
+                  "indexedAt": "2024-09-08T13:36:30.117Z",
+                  "labels": []
+              },
+              "grandparentAuthor": {
+                  "did": "did:plc:fkieonsi5arr6cfa6ehnnv3a",
+                  "handle": "trulyaliem.bsky.social",
+                  "displayName": "allison steele, organic human person",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fkieonsi5arr6cfa6ehnnv3a/bafkreibavyw34vmd5rygf3jvzwhbqvw5m5htmd6jpjscpiddfyszgql5ty@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [
+                      {
+                          "src": "did:plc:fkieonsi5arr6cfa6ehnnv3a",
+                          "uri": "at://did:plc:fkieonsi5arr6cfa6ehnnv3a/app.bsky.actor.profile/self",
+                          "cid": "bafyreigyajpzmzfiqlfzsdthl6bloenleqqxmrmj42wb4bplljpljigz6e",
+                          "val": "!no-unauthenticated",
+                          "cts": "1970-01-01T00:00:00.000Z"
+                      }
+                  ],
+                  "createdAt": "2023-05-24T03:54:42.049Z"
+              }
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:t2xgjn25va5r5m3prh6ssuhi/app.bsky.feed.post/3l3qcglbt3p2r",
+              "cid": "bafyreihijug2yd7fcwvq66axwqgmatd7qgfuimqolynwj5j4ajmdtszwfy",
+              "author": {
+                  "did": "did:plc:t2xgjn25va5r5m3prh6ssuhi",
+                  "handle": "wwwmlna.bsky.social",
+                  "displayName": "milena ",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:t2xgjn25va5r5m3prh6ssuhi/bafkreia23h7o24772m27tvrrmdnmtvteob7fd3jhktox26fg5p7luecpu4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "all"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2023-03-01T20:31:25.277Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-09-09T16:17:48.792Z",
+                  "embed": {
+                      "$type": "app.bsky.embed.images",
+                      "images": [
+                          {
+                              "alt": "Adaptação do meme “bad ending: the whole WORLD is now Brazil” nessa versão adaptada o meme diz “bad ending: the whole brazil is now Cuiabá”",
+                              "aspectRatio": {
+                                  "height": 940,
+                                  "width": 896
+                              },
+                              "image": {
+                                  "$type": "blob",
+                                  "ref": {
+                                      "$link": "bafkreihxliu6vwmf4x3zohsn76wqhwcuat5gdxo3mhdd4c6luljn3oqmkm"
+                                  },
+                                  "mimeType": "image/jpeg",
+                                  "size": 515200
+                              }
+                          }
+                      ]
+                  },
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "o foda é que por ser do centro oeste eu sempre tive a esperança de que quando a fumaça tóxica que a gente inala todo ano começasse a chegar no sul/sudeste o governo faria alguma coisa mas estão sendo todos igualmente ignorados e é isso então"
+              },
+              "embed": {
+                  "$type": "app.bsky.embed.images#view",
+                  "images": [
+                      {
+                          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:t2xgjn25va5r5m3prh6ssuhi/bafkreihxliu6vwmf4x3zohsn76wqhwcuat5gdxo3mhdd4c6luljn3oqmkm@jpeg",
+                          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:t2xgjn25va5r5m3prh6ssuhi/bafkreihxliu6vwmf4x3zohsn76wqhwcuat5gdxo3mhdd4c6luljn3oqmkm@jpeg",
+                          "alt": "Adaptação do meme “bad ending: the whole WORLD is now Brazil” nessa versão adaptada o meme diz “bad ending: the whole brazil is now Cuiabá”",
+                          "aspectRatio": {
+                              "height": 940,
+                              "width": 896
+                          }
+                      }
+                  ]
+              },
+              "replyCount": 41,
+              "repostCount": 425,
+              "likeCount": 2827,
+              "quoteCount": 75,
+              "indexedAt": "2024-09-09T16:17:48.792Z",
+              "labels": []
+          },
+          "reason": {
+              "$type": "app.bsky.feed.defs#reasonRepost",
+              "by": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "indexedAt": "2024-09-10T14:05:27.947Z"
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l3r52m662327",
+              "cid": "bafyreigwwycgafz6m7m33vcxuvbtxw5uq7iaxqbscvpnv7mnmyauiy5qtm",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-09-10T00:14:18.058Z",
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "is our fate"
+              },
+              "replyCount": 0,
+              "repostCount": 0,
+              "likeCount": 0,
+              "quoteCount": 0,
+              "indexedAt": "2024-09-10T00:14:18.058Z",
+              "labels": []
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l3r4aarwy32y",
+              "cid": "bafyreibo2qru274mttzdlnmwggv6icve6jewdszccmi2lvvt5dxqvv7s4y",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-09-09T23:59:32.957Z",
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "acredito muito no universo... estamos alinhados irmão 💎"
+              },
+              "replyCount": 0,
+              "repostCount": 0,
+              "likeCount": 0,
+              "quoteCount": 0,
+              "indexedAt": "2024-09-09T23:59:32.957Z",
+              "labels": []
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l3olrvqwx22s",
+              "cid": "bafyreifnhb5wncb5sdqnsevisdd2mtenjhv74jdyigtddyakknmmyvnnze",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-09-08T23:59:52.385Z",
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "pelo amor de deus libera essa estradaaaaaaa"
+              },
+              "replyCount": 0,
+              "repostCount": 0,
+              "likeCount": 0,
+              "quoteCount": 0,
+              "indexedAt": "2024-09-08T23:59:52.385Z",
+              "labels": []
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l3nixc23ry2p",
+              "cid": "bafyreicsephzvxdzkfla34y7hzm6eggulkqos4chj6qq2waoqev34h5spu",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-09-08T13:36:32.222Z",
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "to com uma ressaca que parece q bebi pra krl… oq o cansaço não faz"
+              },
+              "replyCount": 0,
+              "repostCount": 0,
+              "likeCount": 0,
+              "quoteCount": 0,
+              "indexedAt": "2024-09-08T13:36:32.222Z",
+              "labels": []
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l3kzvj5p232m",
+              "cid": "bafyreicwmpnq6kgtqqww6snofvlhzqiywo3woy63xzo3vjvpe4dfgcz7z4",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-09-07T14:01:46.944Z",
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "aplicativo desgramado, coloquei bilhete 2x e em nenhuma caiu"
+              },
+              "replyCount": 0,
+              "repostCount": 0,
+              "likeCount": 0,
+              "quoteCount": 0,
+              "indexedAt": "2024-09-07T14:01:46.944Z",
+              "labels": []
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l3jhqy2wjs2w",
+              "cid": "bafyreicb3mqicijkukohdf2ywrdhfq6adlluqvbuzvjdzuipmmyvlauisy",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-09-06T23:04:27.644Z",
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "agora tá brotando carona no blablacar né, sacanagem"
+              },
+              "replyCount": 0,
+              "repostCount": 0,
+              "likeCount": 0,
+              "quoteCount": 0,
+              "indexedAt": "2024-09-06T23:04:27.644Z",
+              "labels": []
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l3jhfsnwwd2b",
+              "cid": "bafyreihpegtwzdhkizvdh5v4virchgtze5oysjog2o4pjbajfudnnpp65u",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-09-06T22:58:13.452Z",
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "until i bleed out"
+              },
+              "replyCount": 0,
+              "repostCount": 0,
+              "likeCount": 0,
+              "quoteCount": 0,
+              "indexedAt": "2024-09-06T22:58:13.452Z",
+              "labels": []
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:2cq26a6sxdxql3a3rdqxvs44/app.bsky.feed.post/3l3j6w2oork2o",
+              "cid": "bafyreibbk2ny7kexyj3x5q2geexiy5uke3xpwe645dqsfzhtq7nvxnbdle",
+              "author": {
+                  "did": "did:plc:2cq26a6sxdxql3a3rdqxvs44",
+                  "handle": "cainalamar.bsky.social",
+                  "displayName": "cainã ",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2cq26a6sxdxql3a3rdqxvs44/bafkreiejmmidfg47ymd45u25wnk3exfnhvxp264c2umrgd7yoylv4rzjca@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-09-01T21:10:29.399Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-09-06T20:26:14.752Z",
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "silêncio, cortei o cabelo."
+              },
+              "replyCount": 0,
+              "repostCount": 2,
+              "likeCount": 14,
+              "quoteCount": 1,
+              "indexedAt": "2024-09-06T20:26:14.752Z",
+              "labels": []
+          },
+          "reason": {
+              "$type": "app.bsky.feed.defs#reasonRepost",
+              "by": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "indexedAt": "2024-09-06T20:30:37.703Z"
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l3j755nfm42w",
+              "cid": "bafyreic6qeqkkmmoyoiapprvvv33iz2b7cokzcluopm5uhbcjhxt3rvzme",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-09-06T20:30:13.050Z",
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "não tem como negar, as barrinhas da bold são fodas"
+              },
+              "replyCount": 0,
+              "repostCount": 0,
+              "likeCount": 0,
+              "quoteCount": 0,
+              "indexedAt": "2024-09-06T20:30:13.050Z",
+              "labels": []
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l3hewszdrg2f",
+              "cid": "bafyreib3geqxx7xkwhjazjdpbgm3m244o3ysmalx4ab3ruka6f43egh6mq",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-09-06T03:08:43.587Z",
+                  "langs": [
+                      "pt"
+                  ],
+                  "reply": {
+                      "parent": {
+                          "cid": "bafyreieixkviifxvdiebfpgex3dc4dz2cfgv3cthqfebeywzustognkaxa",
+                          "uri": "at://did:plc:qldpjgw7bu73c4vzlb3aqgc4/app.bsky.feed.post/3l3h63xy3i52x"
+                      },
+                      "root": {
+                          "cid": "bafyreieixkviifxvdiebfpgex3dc4dz2cfgv3cthqfebeywzustognkaxa",
+                          "uri": "at://did:plc:qldpjgw7bu73c4vzlb3aqgc4/app.bsky.feed.post/3l3h63xy3i52x"
+                      }
+                  },
+                  "text": "📌"
+              },
+              "replyCount": 0,
+              "repostCount": 0,
+              "likeCount": 0,
+              "quoteCount": 0,
+              "indexedAt": "2024-09-06T03:08:43.587Z",
+              "labels": []
+          },
+          "reply": {
+              "root": {
+                  "$type": "app.bsky.feed.defs#postView",
+                  "uri": "at://did:plc:qldpjgw7bu73c4vzlb3aqgc4/app.bsky.feed.post/3l3h63xy3i52x",
+                  "cid": "bafyreieixkviifxvdiebfpgex3dc4dz2cfgv3cthqfebeywzustognkaxa",
+                  "author": {
+                      "did": "did:plc:qldpjgw7bu73c4vzlb3aqgc4",
+                      "handle": "leandronsp.com",
+                      "displayName": "leandro•nsp",
+                      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qldpjgw7bu73c4vzlb3aqgc4/bafkreiae55bjjrqpz3empy66kjhkivlxk35exnghcvuhrrdeyg2y3n5k4i@jpeg",
+                      "associated": {
+                          "chat": {
+                              "allowIncoming": "following"
+                          }
+                      },
+                      "labels": [],
+                      "createdAt": "2023-05-06T19:22:36.189Z"
+                  },
+                  "record": {
+                      "$type": "app.bsky.feed.post",
+                      "createdAt": "2024-09-06T01:06:19.749Z",
+                      "langs": [
+                          "pt"
+                      ],
+                      "text": "considerando muito escrever uma serie de posts sobre como analisar problemas de queries em bancos de dados relacionais\n\n- postgresql\n- explain\n- pg_stat_activity\n- pg_stat_statements\n- configuração de pool\n- configuração de db\n- concorrencia, locks e problemas relacionados\n\nque mais?"
+                  },
+                  "replyCount": 31,
+                  "repostCount": 19,
+                  "likeCount": 201,
+                  "quoteCount": 1,
+                  "indexedAt": "2024-09-06T01:06:19.749Z",
+                  "labels": []
+              },
+              "parent": {
+                  "$type": "app.bsky.feed.defs#postView",
+                  "uri": "at://did:plc:qldpjgw7bu73c4vzlb3aqgc4/app.bsky.feed.post/3l3h63xy3i52x",
+                  "cid": "bafyreieixkviifxvdiebfpgex3dc4dz2cfgv3cthqfebeywzustognkaxa",
+                  "author": {
+                      "did": "did:plc:qldpjgw7bu73c4vzlb3aqgc4",
+                      "handle": "leandronsp.com",
+                      "displayName": "leandro•nsp",
+                      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qldpjgw7bu73c4vzlb3aqgc4/bafkreiae55bjjrqpz3empy66kjhkivlxk35exnghcvuhrrdeyg2y3n5k4i@jpeg",
+                      "associated": {
+                          "chat": {
+                              "allowIncoming": "following"
+                          }
+                      },
+                      "labels": [],
+                      "createdAt": "2023-05-06T19:22:36.189Z"
+                  },
+                  "record": {
+                      "$type": "app.bsky.feed.post",
+                      "createdAt": "2024-09-06T01:06:19.749Z",
+                      "langs": [
+                          "pt"
+                      ],
+                      "text": "considerando muito escrever uma serie de posts sobre como analisar problemas de queries em bancos de dados relacionais\n\n- postgresql\n- explain\n- pg_stat_activity\n- pg_stat_statements\n- configuração de pool\n- configuração de db\n- concorrencia, locks e problemas relacionados\n\nque mais?"
+                  },
+                  "replyCount": 31,
+                  "repostCount": 19,
+                  "likeCount": 201,
+                  "quoteCount": 1,
+                  "indexedAt": "2024-09-06T01:06:19.749Z",
+                  "labels": []
+              }
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l3hepjfgde26",
+              "cid": "bafyreialhb7phi66ndyxkxiusklfo6xfubdjtgrvixpeykdknp2hdifg6u",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-09-06T03:04:38.619Z",
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "ixfrio do nada"
+              },
+              "replyCount": 0,
+              "repostCount": 0,
+              "likeCount": 1,
+              "quoteCount": 0,
+              "indexedAt": "2024-09-06T03:04:38.619Z",
+              "labels": []
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l3eqn54raw2f",
+              "cid": "bafyreieu5pymcjj452ari2qktyt6wh7nljefmnu47lhme7uraezlj76sie",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-09-05T02:00:03.471Z",
+                  "embed": {
+                      "$type": "app.bsky.embed.record",
+                      "record": {
+                          "cid": "bafyreigk3kr7zqsv5sfjvhz3lg3xrc5y2wqosuymtwnmoitagm7v5zasqq",
+                          "uri": "at://did:plc:tsmetrcacljkvf5dzl463u4x/app.bsky.feed.post/3l3e6hpnyud2a"
+                      }
+                  },
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "mais um video pra colocar a galera pra pensar!! tá perfeito!"
+              },
+              "embed": {
+                  "$type": "app.bsky.embed.record#view",
+                  "record": {
+                      "$type": "app.bsky.embed.record#viewRecord",
+                      "uri": "at://did:plc:tsmetrcacljkvf5dzl463u4x/app.bsky.feed.post/3l3e6hpnyud2a",
+                      "cid": "bafyreigk3kr7zqsv5sfjvhz3lg3xrc5y2wqosuymtwnmoitagm7v5zasqq",
+                      "author": {
+                          "did": "did:plc:tsmetrcacljkvf5dzl463u4x",
+                          "handle": "ludoviajante.bsky.social",
+                          "displayName": "Ludoviajante",
+                          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tsmetrcacljkvf5dzl463u4x/bafkreiau4kirl2xlap4rrz7dzfrup3g7d7uku2vq755ggdspr6dmkjccqa@jpeg",
+                          "associated": {
+                              "chat": {
+                                  "allowIncoming": "following"
+                              }
+                          },
+                          "labels": [],
+                          "createdAt": "2024-09-02T09:25:17.296Z"
+                      },
+                      "value": {
+                          "$type": "app.bsky.feed.post",
+                          "createdAt": "2024-09-04T20:32:17.204Z",
+                          "embed": {
+                              "$type": "app.bsky.embed.external",
+                              "external": {
+                                  "description": "YouTube video by Ludoviajante",
+                                  "thumb": {
+                                      "$type": "blob",
+                                      "ref": {
+                                          "$link": "bafkreieqnn45iqjy7mceocj3l5tlkryyokonup3rr5hr7bg75cy7zr7po4"
+                                      },
+                                      "mimeType": "image/jpeg",
+                                      "size": 350084
+                                  },
+                                  "title": "Assista quando estiver cansado da vida | A filosofia de Sartre",
+                                  "uri": "https://youtu.be/2YtBZaqe3Mo"
+                              }
+                          },
+                          "facets": [
+                              {
+                                  "features": [
+                                      {
+                                          "$type": "app.bsky.richtext.facet#link",
+                                          "uri": "https://youtu.be/2YtBZaqe3Mo"
+                                      }
+                                  ],
+                                  "index": {
+                                      "byteEnd": 300,
+                                      "byteStart": 280
+                                  }
+                              }
+                          ],
+                          "langs": [
+                              "pt"
+                          ],
+                          "text": "VÍDEO NOVO :) (num sei usar essa rede kkk)\nSabe a sensação de que a vida passa na vel x2, mas você tá em câmera lenta? Como se o mundo fosse um teatro e você tivesse de saco cheio? A filosofia tem algo incrível a dizer sobre isso. \nTodo RT ajuda, obg ♥\n\nLink do vídeo:\nyoutu.be/2YtBZaqe3Mo"
+                      },
+                      "labels": [],
+                      "likeCount": 162,
+                      "replyCount": 27,
+                      "repostCount": 55,
+                      "quoteCount": 32,
+                      "indexedAt": "2024-09-04T20:32:17.204Z",
+                      "embeds": [
+                          {
+                              "$type": "app.bsky.embed.external#view",
+                              "external": {
+                                  "uri": "https://youtu.be/2YtBZaqe3Mo",
+                                  "title": "Assista quando estiver cansado da vida | A filosofia de Sartre",
+                                  "description": "YouTube video by Ludoviajante",
+                                  "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tsmetrcacljkvf5dzl463u4x/bafkreieqnn45iqjy7mceocj3l5tlkryyokonup3rr5hr7bg75cy7zr7po4@jpeg"
+                              }
+                          }
+                      ]
+                  }
+              },
+              "replyCount": 0,
+              "repostCount": 0,
+              "likeCount": 0,
+              "quoteCount": 0,
+              "indexedAt": "2024-09-05T02:00:03.471Z",
+              "labels": []
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:gpunjjgvlyb4racypz3yfiq4/app.bsky.feed.post/3l37nqcp7js2r",
+              "cid": "bafyreigyy7ybjkbzh36ihk3zty7er3lwjb67vfrw272mcp5knpyxk6poqa",
+              "author": {
+                  "did": "did:plc:gpunjjgvlyb4racypz3yfiq4",
+                  "handle": "jnascim.info",
+                  "displayName": "Jeff Nascimento",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gpunjjgvlyb4racypz3yfiq4/bafkreict2huvs44lkfxbfgm6knsnjksubpndcuq7nytjvfw7y2zm5pugbq@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "all"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2023-04-22T10:36:21.706Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-09-03T01:24:50.952Z",
+                  "embed": {
+                      "$type": "app.bsky.embed.images",
+                      "images": [
+                          {
+                              "alt": "",
+                              "aspectRatio": {
+                                  "height": 675,
+                                  "width": 1200
+                              },
+                              "image": {
+                                  "$type": "blob",
+                                  "ref": {
+                                      "$link": "bafkreibgfu7xkf6c2zbntmlxt2hf6wus76fppoo5idgc6u7nfer65rfa4a"
+                                  },
+                                  "mimeType": "image/jpeg",
+                                  "size": 354085
+                              }
+                          }
+                      ]
+                  },
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "🧶 THREADS → um Twitter reimaginado por usuários do Instagram que nunca usaram o Twitter – ou que usavam de forma secundária para alavancar seu conteúdo do IG\n\n🦋 BLUESKY → a utopia do tuiteiro raiz de voltar no tempo e refazer o futuro do Twitter antes das bifurcações equivocadas que a rede trilhou"
+              },
+              "embed": {
+                  "$type": "app.bsky.embed.images#view",
+                  "images": [
+                      {
+                          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gpunjjgvlyb4racypz3yfiq4/bafkreibgfu7xkf6c2zbntmlxt2hf6wus76fppoo5idgc6u7nfer65rfa4a@jpeg",
+                          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:gpunjjgvlyb4racypz3yfiq4/bafkreibgfu7xkf6c2zbntmlxt2hf6wus76fppoo5idgc6u7nfer65rfa4a@jpeg",
+                          "alt": "",
+                          "aspectRatio": {
+                              "height": 675,
+                              "width": 1200
+                          }
+                      }
+                  ]
+              },
+              "replyCount": 50,
+              "repostCount": 449,
+              "likeCount": 3399,
+              "quoteCount": 67,
+              "indexedAt": "2024-09-03T01:24:50.952Z",
+              "labels": []
+          },
+          "reason": {
+              "$type": "app.bsky.feed.defs#reasonRepost",
+              "by": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "indexedAt": "2024-09-04T17:36:49.960Z"
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l3ce32npcz22",
+              "cid": "bafyreigssahfolibw3s52vyc7kbxooxwhr3kyzkgnivufzs25rwuz3kjwy",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-09-04T03:09:52.829Z",
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "it’s really u on my mind"
+              },
+              "replyCount": 0,
+              "repostCount": 0,
+              "likeCount": 0,
+              "quoteCount": 0,
+              "indexedAt": "2024-09-04T03:09:52.829Z",
+              "labels": []
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l37n6eppn52c",
+              "cid": "bafyreiczncyquszbelqvqmqawq7ny4h6243lbzkotueafyi72dqzpkkx2u",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-09-03T01:14:49.028Z",
+                  "facets": [
+                      {
+                          "features": [
+                              {
+                                  "$type": "app.bsky.richtext.facet#tag",
+                                  "tag": "rodaviva"
+                              }
+                          ],
+                          "index": {
+                              "byteEnd": 9,
+                              "byteStart": 0
+                          }
+                      }
+                  ],
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "#rodaviva pegando fogo"
+              },
+              "replyCount": 0,
+              "repostCount": 0,
+              "likeCount": 3,
+              "quoteCount": 0,
+              "indexedAt": "2024-09-03T01:14:49.028Z",
+              "labels": []
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l367igvpdx22",
+              "cid": "bafyreifbxzv6o3ang3rn6d6e7ii32vlu3hgug3wvgicgmitfs444xn65ki",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-09-02T11:37:14.747Z",
+                  "embed": {
+                      "$type": "app.bsky.embed.record",
+                      "record": {
+                          "cid": "bafyreigic7hc2l5htouyokzhvwnfjseoxkcdlq52ssecokuajih3jovod4",
+                          "uri": "at://did:plc:vzsheq3xxgqeppahxpxf7ksj/app.bsky.feed.post/3l34idz2po22d"
+                      }
+                  },
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "KKKKKKK tadinho"
+              },
+              "embed": {
+                  "$type": "app.bsky.embed.record#view",
+                  "record": {
+                      "$type": "app.bsky.embed.record#viewRecord",
+                      "uri": "at://did:plc:vzsheq3xxgqeppahxpxf7ksj/app.bsky.feed.post/3l34idz2po22d",
+                      "cid": "bafyreigic7hc2l5htouyokzhvwnfjseoxkcdlq52ssecokuajih3jovod4",
+                      "author": {
+                          "did": "did:plc:vzsheq3xxgqeppahxpxf7ksj",
+                          "handle": "elisappb.bsky.social",
+                          "displayName": "Ninguém",
+                          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vzsheq3xxgqeppahxpxf7ksj/bafkreiagpv7yslt4upvgzktiph5o563tnwlfty3pfv7kzvhpmxw4tl4sjm@jpeg",
+                          "associated": {
+                              "chat": {
+                                  "allowIncoming": "all"
+                              }
+                          },
+                          "labels": [
+                              {
+                                  "src": "did:plc:vzsheq3xxgqeppahxpxf7ksj",
+                                  "uri": "at://did:plc:vzsheq3xxgqeppahxpxf7ksj/app.bsky.actor.profile/self",
+                                  "cid": "bafyreifdtadsub4uxmdad6dj4lfvfaphwm2mg5gtjvr2rr2pspizrq2gri",
+                                  "val": "!no-unauthenticated",
+                                  "cts": "1970-01-01T00:00:00.000Z"
+                              }
+                          ],
+                          "createdAt": "2023-07-01T20:29:38.091Z"
+                      },
+                      "value": {
+                          "$type": "app.bsky.feed.post",
+                          "createdAt": "2024-09-01T19:10:29.902Z",
+                          "langs": [
+                              "pt"
+                          ],
+                          "text": "Gente, é o Elon Musk que fez uma publicação no Twitter falando que os brasileiros foram às ruas pedindo a volta do Twitter e usou uma imagem de uma passeata pro Bolsonaro na paulista kkkkkkkkkkkkk"
+                      },
+                      "labels": [],
+                      "likeCount": 1334,
+                      "replyCount": 27,
+                      "repostCount": 104,
+                      "quoteCount": 78,
+                      "indexedAt": "2024-09-01T19:10:29.902Z",
+                      "embeds": []
+                  }
+              },
+              "replyCount": 0,
+              "repostCount": 0,
+              "likeCount": 0,
+              "quoteCount": 0,
+              "indexedAt": "2024-09-02T11:37:14.747Z",
+              "labels": []
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l34qkkwvwe2e",
+              "cid": "bafyreifw7xvbmgpup2fir4kpiathpz6mqqt43teb3b3u3yo4q5u2koqepu",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-09-01T21:37:19.578Z",
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "corri 5k hj dps de um tempinho parado… simbora pra ativa dnv"
+              },
+              "replyCount": 0,
+              "repostCount": 0,
+              "likeCount": 1,
+              "quoteCount": 0,
+              "indexedAt": "2024-09-01T21:37:19.578Z",
+              "labels": []
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l32nizt32v2t",
+              "cid": "bafyreibtnwdjq6n7ukcd6rhmpwwxnau5ut5kuuilmin3lsr3vivblbpgju",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-09-01T01:37:27.998Z",
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "tem um feed só pra foto de gatos 🤏🥹"
+              },
+              "replyCount": 0,
+              "repostCount": 0,
+              "likeCount": 3,
+              "quoteCount": 0,
+              "indexedAt": "2024-09-01T01:37:27.998Z",
+              "labels": []
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l327kzs63e22",
+              "cid": "bafyreib5d3z73lojmhifwhv7elvzvgez5rjpitcqameulefiuyugzhydiu",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-08-31T21:28:02.727Z",
+                  "embed": {
+                      "$type": "app.bsky.embed.record",
+                      "record": {
+                          "cid": "bafyreif45zmah5hvgl5pqb266uo2xee6hr4gdnvlh5ip4dyg4koq2xokya",
+                          "uri": "at://did:plc:t2xgjn25va5r5m3prh6ssuhi/app.bsky.feed.post/3l327e5oaey2e"
+                      }
+                  },
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "essa me pega sempre"
+              },
+              "embed": {
+                  "$type": "app.bsky.embed.record#view",
+                  "record": {
+                      "$type": "app.bsky.embed.record#viewRecord",
+                      "uri": "at://did:plc:t2xgjn25va5r5m3prh6ssuhi/app.bsky.feed.post/3l327e5oaey2e",
+                      "cid": "bafyreif45zmah5hvgl5pqb266uo2xee6hr4gdnvlh5ip4dyg4koq2xokya",
+                      "author": {
+                          "did": "did:plc:t2xgjn25va5r5m3prh6ssuhi",
+                          "handle": "wwwmlna.bsky.social",
+                          "displayName": "milena ",
+                          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:t2xgjn25va5r5m3prh6ssuhi/bafkreia23h7o24772m27tvrrmdnmtvteob7fd3jhktox26fg5p7luecpu4@jpeg",
+                          "associated": {
+                              "chat": {
+                                  "allowIncoming": "all"
+                              }
+                          },
+                          "labels": [],
+                          "createdAt": "2023-03-01T20:31:25.277Z"
+                      },
+                      "value": {
+                          "$type": "app.bsky.feed.post",
+                          "createdAt": "2024-08-31T21:24:11.260Z",
+                          "langs": [
+                              "pt"
+                          ],
+                          "text": "ALGUÉM APAIXONADO AQUI EM CUIABÁ HOJE? ALGUÉM SOFRENDO DE AMOR??\n\nVOCÊ QUE VEIO PRA CÁ TENTANDO ESQUECER AQUELA PESSOA…E AINDA NÃO CONSEGUIU \n\nVOU DAR UM CONSELHO DE AMIGO:\n\nSE EU FOSSE VOCÊ EU LIGAVA PRA ESSA PESSOA AGORA, A ESSA HORA \n\nLIGAVA E FALAVA ASSIM:\n\namor…tô morrendo de saudade de você 🥺"
+                      },
+                      "labels": [],
+                      "likeCount": 300,
+                      "replyCount": 6,
+                      "repostCount": 78,
+                      "quoteCount": 19,
+                      "indexedAt": "2024-08-31T21:24:11.260Z",
+                      "embeds": []
+                  }
+              },
+              "replyCount": 0,
+              "repostCount": 0,
+              "likeCount": 0,
+              "quoteCount": 0,
+              "indexedAt": "2024-08-31T21:28:02.727Z",
+              "labels": []
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l2zzj7e5ar2u",
+              "cid": "bafyreid7gqru2osmhwgxp5pan6aa3slacuagwoskig6mt3llkpn7zc4jmu",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-08-31T19:39:38.371Z",
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "o problema das imagens parece que foi resolvido… tá bem fluido aqui agora"
+              },
+              "replyCount": 0,
+              "repostCount": 0,
+              "likeCount": 0,
+              "quoteCount": 0,
+              "indexedAt": "2024-08-31T19:39:38.371Z",
+              "labels": []
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l2zxod6cuc2w",
+              "cid": "bafyreiair7ujttsw6x7e5y73qfhr6y5a3emsrvcmi4ambkgqb3cjn65cfe",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-08-31T19:06:43.301Z",
+                  "langs": [
+                      "pt"
+                  ],
+                  "reply": {
+                      "parent": {
+                          "cid": "bafyreiey3oyyullnplejo5h5xhqtdqejk6iuiq5mjlwm6zve77kjmciacu",
+                          "uri": "at://did:plc:hdfcpa32fqzg7a3tq6wvuouj/app.bsky.feed.post/3l2zxfwn72v2i"
+                      },
+                      "root": {
+                          "cid": "bafyreiey3oyyullnplejo5h5xhqtdqejk6iuiq5mjlwm6zve77kjmciacu",
+                          "uri": "at://did:plc:hdfcpa32fqzg7a3tq6wvuouj/app.bsky.feed.post/3l2zxfwn72v2i"
+                      }
+                  },
+                  "text": "também cheguei a receber algumas"
+              },
+              "replyCount": 0,
+              "repostCount": 0,
+              "likeCount": 1,
+              "quoteCount": 0,
+              "indexedAt": "2024-08-31T19:06:43.301Z",
+              "labels": []
+          },
+          "reply": {
+              "root": {
+                  "$type": "app.bsky.feed.defs#postView",
+                  "uri": "at://did:plc:hdfcpa32fqzg7a3tq6wvuouj/app.bsky.feed.post/3l2zxfwn72v2i",
+                  "cid": "bafyreiey3oyyullnplejo5h5xhqtdqejk6iuiq5mjlwm6zve77kjmciacu",
+                  "author": {
+                      "did": "did:plc:hdfcpa32fqzg7a3tq6wvuouj",
+                      "handle": "vtnorton.bsky.social",
+                      "displayName": "vítor norton;",
+                      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hdfcpa32fqzg7a3tq6wvuouj/bafkreias7rjgoj6ruv5gal7i73vsicouippirf77hcicmuteofygd5gwii@jpeg",
+                      "associated": {
+                          "chat": {
+                              "allowIncoming": "following"
+                          }
+                      },
+                      "labels": [],
+                      "createdAt": "2023-06-24T02:03:16.704Z"
+                  },
+                  "record": {
+                      "$type": "app.bsky.feed.post",
+                      "createdAt": "2024-08-31T19:01:46.833Z",
+                      "langs": [
+                          "en"
+                      ],
+                      "text": "eu ainda recebo notificação do twitter"
+                  },
+                  "replyCount": 1,
+                  "repostCount": 0,
+                  "likeCount": 1,
+                  "quoteCount": 0,
+                  "indexedAt": "2024-08-31T19:01:46.833Z",
+                  "labels": []
+              },
+              "parent": {
+                  "$type": "app.bsky.feed.defs#postView",
+                  "uri": "at://did:plc:hdfcpa32fqzg7a3tq6wvuouj/app.bsky.feed.post/3l2zxfwn72v2i",
+                  "cid": "bafyreiey3oyyullnplejo5h5xhqtdqejk6iuiq5mjlwm6zve77kjmciacu",
+                  "author": {
+                      "did": "did:plc:hdfcpa32fqzg7a3tq6wvuouj",
+                      "handle": "vtnorton.bsky.social",
+                      "displayName": "vítor norton;",
+                      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hdfcpa32fqzg7a3tq6wvuouj/bafkreias7rjgoj6ruv5gal7i73vsicouippirf77hcicmuteofygd5gwii@jpeg",
+                      "associated": {
+                          "chat": {
+                              "allowIncoming": "following"
+                          }
+                      },
+                      "labels": [],
+                      "createdAt": "2023-06-24T02:03:16.704Z"
+                  },
+                  "record": {
+                      "$type": "app.bsky.feed.post",
+                      "createdAt": "2024-08-31T19:01:46.833Z",
+                      "langs": [
+                          "en"
+                      ],
+                      "text": "eu ainda recebo notificação do twitter"
+                  },
+                  "replyCount": 1,
+                  "repostCount": 0,
+                  "likeCount": 1,
+                  "quoteCount": 0,
+                  "indexedAt": "2024-08-31T19:01:46.833Z",
+                  "labels": []
+              }
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l2zxdozfj32q",
+              "cid": "bafyreihighlj42fyocjwj4vuyqvfzjqr6krsot5vs3ubsaacnq3xjiwfya",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-08-31T19:00:46.628Z",
+                  "langs": [
+                      "pt"
+                  ],
+                  "reply": {
+                      "parent": {
+                          "cid": "bafyreicdk55myhebnrsqxn3jie3zrnq456k6lekiioq3c5ltvymvpfw7ga",
+                          "uri": "at://did:plc:dolipguvistbuweynli2p67v/app.bsky.feed.post/3l2zqozay6k2z"
+                      },
+                      "root": {
+                          "cid": "bafyreicdk55myhebnrsqxn3jie3zrnq456k6lekiioq3c5ltvymvpfw7ga",
+                          "uri": "at://did:plc:dolipguvistbuweynli2p67v/app.bsky.feed.post/3l2zqozay6k2z"
+                      }
+                  },
+                  "text": "kkkkkkkkkkk"
+              },
+              "replyCount": 0,
+              "repostCount": 0,
+              "likeCount": 0,
+              "quoteCount": 0,
+              "indexedAt": "2024-08-31T19:00:46.628Z",
+              "labels": []
+          },
+          "reply": {
+              "root": {
+                  "$type": "app.bsky.feed.defs#postView",
+                  "uri": "at://did:plc:dolipguvistbuweynli2p67v/app.bsky.feed.post/3l2zqozay6k2z",
+                  "cid": "bafyreicdk55myhebnrsqxn3jie3zrnq456k6lekiioq3c5ltvymvpfw7ga",
+                  "author": {
+                      "did": "did:plc:dolipguvistbuweynli2p67v",
+                      "handle": "k8adev.pro",
+                      "displayName": "Keit Ollé",
+                      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dolipguvistbuweynli2p67v/bafkreibaltzzrkivuujy6f7exbesjq3i2sn24lnjtykxtwcacjzk3ifrhq@jpeg",
+                      "associated": {
+                          "chat": {
+                              "allowIncoming": "following"
+                          }
+                      },
+                      "labels": [],
+                      "createdAt": "2023-07-01T23:05:51.708Z"
+                  },
+                  "record": {
+                      "$type": "app.bsky.feed.post",
+                      "createdAt": "2024-08-31T17:01:50.305Z",
+                      "embed": {
+                          "$type": "app.bsky.embed.record",
+                          "record": {
+                              "cid": "bafyreihyvtaw6nhq2gwx3a4cpdcqzjaczmpsybo6bv2mucnemngwr6o23a",
+                              "uri": "at://did:plc:ragtjsm2j2vknwkz3zp4oxrd/app.bsky.feed.post/3l2zqis7qpi2o"
+                          }
+                      },
+                      "langs": [
+                          "pt"
+                      ],
+                      "text": "Toda vez que o Twitter ameaça acabar, a gente faz algum time tech de uma rede social trabalhar de final de semana 👻"
+                  },
+                  "embed": {
+                      "$type": "app.bsky.embed.record#view",
+                      "record": {
+                          "$type": "app.bsky.embed.record#viewRecord",
+                          "uri": "at://did:plc:ragtjsm2j2vknwkz3zp4oxrd/app.bsky.feed.post/3l2zqis7qpi2o",
+                          "cid": "bafyreihyvtaw6nhq2gwx3a4cpdcqzjaczmpsybo6bv2mucnemngwr6o23a",
+                          "author": {
+                              "did": "did:plc:ragtjsm2j2vknwkz3zp4oxrd",
+                              "handle": "pfrazee.com",
+                              "displayName": "Paul Frazee's Monster",
+                              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ragtjsm2j2vknwkz3zp4oxrd/bafkreicargk4unjh2ncmooytvow5huic2neiffaw63ile7ntznsfbezs5q@jpeg",
+                              "associated": {
+                                  "chat": {
+                                      "allowIncoming": "following"
+                                  }
+                              },
+                              "labels": [],
+                              "createdAt": "2022-11-17T00:35:16.391Z"
+                          },
+                          "value": {
+                              "$type": "app.bsky.feed.post",
+                              "createdAt": "2024-08-31T16:58:21.546Z",
+                              "embed": {
+                                  "$type": "app.bsky.embed.images",
+                                  "images": [
+                                      {
+                                          "alt": "a picture of me wearing my butterfly wings on the situation room zoom call",
+                                          "aspectRatio": {
+                                              "height": 1000,
+                                              "width": 1420
+                                          },
+                                          "image": {
+                                              "$type": "blob",
+                                              "ref": {
+                                                  "$link": "bafkreicmuem2w2ytvcjxxzezysvmiitevafttlnhqmofjhe7dz4mg3aes4"
+                                              },
+                                              "mimeType": "image/jpeg",
+                                              "size": 178140
+                                          }
+                                      }
+                                  ]
+                              },
+                              "langs": [
+                                  "en"
+                              ],
+                              "text": "if I'm working on a saturday then the butterfly wings are staying on"
+                          },
+                          "labels": [],
+                          "likeCount": 21555,
+                          "replyCount": 1006,
+                          "repostCount": 1465,
+                          "quoteCount": 1523,
+                          "indexedAt": "2024-08-31T16:58:21.546Z",
+                          "embeds": [
+                              {
+                                  "$type": "app.bsky.embed.images#view",
+                                  "images": [
+                                      {
+                                          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ragtjsm2j2vknwkz3zp4oxrd/bafkreicmuem2w2ytvcjxxzezysvmiitevafttlnhqmofjhe7dz4mg3aes4@jpeg",
+                                          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ragtjsm2j2vknwkz3zp4oxrd/bafkreicmuem2w2ytvcjxxzezysvmiitevafttlnhqmofjhe7dz4mg3aes4@jpeg",
+                                          "alt": "a picture of me wearing my butterfly wings on the situation room zoom call",
+                                          "aspectRatio": {
+                                              "height": 1000,
+                                              "width": 1420
+                                          }
+                                      }
+                                  ]
+                              }
+                          ]
+                      }
+                  },
+                  "replyCount": 2,
+                  "repostCount": 3,
+                  "likeCount": 30,
+                  "quoteCount": 0,
+                  "indexedAt": "2024-08-31T17:01:50.305Z",
+                  "labels": []
+              },
+              "parent": {
+                  "$type": "app.bsky.feed.defs#postView",
+                  "uri": "at://did:plc:dolipguvistbuweynli2p67v/app.bsky.feed.post/3l2zqozay6k2z",
+                  "cid": "bafyreicdk55myhebnrsqxn3jie3zrnq456k6lekiioq3c5ltvymvpfw7ga",
+                  "author": {
+                      "did": "did:plc:dolipguvistbuweynli2p67v",
+                      "handle": "k8adev.pro",
+                      "displayName": "Keit Ollé",
+                      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dolipguvistbuweynli2p67v/bafkreibaltzzrkivuujy6f7exbesjq3i2sn24lnjtykxtwcacjzk3ifrhq@jpeg",
+                      "associated": {
+                          "chat": {
+                              "allowIncoming": "following"
+                          }
+                      },
+                      "labels": [],
+                      "createdAt": "2023-07-01T23:05:51.708Z"
+                  },
+                  "record": {
+                      "$type": "app.bsky.feed.post",
+                      "createdAt": "2024-08-31T17:01:50.305Z",
+                      "embed": {
+                          "$type": "app.bsky.embed.record",
+                          "record": {
+                              "cid": "bafyreihyvtaw6nhq2gwx3a4cpdcqzjaczmpsybo6bv2mucnemngwr6o23a",
+                              "uri": "at://did:plc:ragtjsm2j2vknwkz3zp4oxrd/app.bsky.feed.post/3l2zqis7qpi2o"
+                          }
+                      },
+                      "langs": [
+                          "pt"
+                      ],
+                      "text": "Toda vez que o Twitter ameaça acabar, a gente faz algum time tech de uma rede social trabalhar de final de semana 👻"
+                  },
+                  "embed": {
+                      "$type": "app.bsky.embed.record#view",
+                      "record": {
+                          "$type": "app.bsky.embed.record#viewRecord",
+                          "uri": "at://did:plc:ragtjsm2j2vknwkz3zp4oxrd/app.bsky.feed.post/3l2zqis7qpi2o",
+                          "cid": "bafyreihyvtaw6nhq2gwx3a4cpdcqzjaczmpsybo6bv2mucnemngwr6o23a",
+                          "author": {
+                              "did": "did:plc:ragtjsm2j2vknwkz3zp4oxrd",
+                              "handle": "pfrazee.com",
+                              "displayName": "Paul Frazee's Monster",
+                              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ragtjsm2j2vknwkz3zp4oxrd/bafkreicargk4unjh2ncmooytvow5huic2neiffaw63ile7ntznsfbezs5q@jpeg",
+                              "associated": {
+                                  "chat": {
+                                      "allowIncoming": "following"
+                                  }
+                              },
+                              "labels": [],
+                              "createdAt": "2022-11-17T00:35:16.391Z"
+                          },
+                          "value": {
+                              "$type": "app.bsky.feed.post",
+                              "createdAt": "2024-08-31T16:58:21.546Z",
+                              "embed": {
+                                  "$type": "app.bsky.embed.images",
+                                  "images": [
+                                      {
+                                          "alt": "a picture of me wearing my butterfly wings on the situation room zoom call",
+                                          "aspectRatio": {
+                                              "height": 1000,
+                                              "width": 1420
+                                          },
+                                          "image": {
+                                              "$type": "blob",
+                                              "ref": {
+                                                  "$link": "bafkreicmuem2w2ytvcjxxzezysvmiitevafttlnhqmofjhe7dz4mg3aes4"
+                                              },
+                                              "mimeType": "image/jpeg",
+                                              "size": 178140
+                                          }
+                                      }
+                                  ]
+                              },
+                              "langs": [
+                                  "en"
+                              ],
+                              "text": "if I'm working on a saturday then the butterfly wings are staying on"
+                          },
+                          "labels": [],
+                          "likeCount": 21555,
+                          "replyCount": 1006,
+                          "repostCount": 1465,
+                          "quoteCount": 1523,
+                          "indexedAt": "2024-08-31T16:58:21.546Z",
+                          "embeds": [
+                              {
+                                  "$type": "app.bsky.embed.images#view",
+                                  "images": [
+                                      {
+                                          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ragtjsm2j2vknwkz3zp4oxrd/bafkreicmuem2w2ytvcjxxzezysvmiitevafttlnhqmofjhe7dz4mg3aes4@jpeg",
+                                          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ragtjsm2j2vknwkz3zp4oxrd/bafkreicmuem2w2ytvcjxxzezysvmiitevafttlnhqmofjhe7dz4mg3aes4@jpeg",
+                                          "alt": "a picture of me wearing my butterfly wings on the situation room zoom call",
+                                          "aspectRatio": {
+                                              "height": 1000,
+                                              "width": 1420
+                                          }
+                                      }
+                                  ]
+                              }
+                          ]
+                      }
+                  },
+                  "replyCount": 2,
+                  "repostCount": 3,
+                  "likeCount": 30,
+                  "quoteCount": 0,
+                  "indexedAt": "2024-08-31T17:01:50.305Z",
+                  "labels": []
+              }
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l2zkrbrtgu2a",
+              "cid": "bafyreihrvdm4xi6b5tnueu7orhdgqtwpt7m3k57cikv4ibk2vpzvwnubmy",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-08-31T15:15:43.807Z",
+                  "langs": [
+                      "pt"
+                  ],
+                  "reply": {
+                      "parent": {
+                          "cid": "bafyreigzvfdyu7mrfhs2qefsuk5oaseeyrp6rsprze2s3hqmeuuomntkhi",
+                          "uri": "at://did:plc:n7uuvsa3a2clphrzoifnex74/app.bsky.feed.post/3l2zkjfuz4s2d"
+                      },
+                      "root": {
+                          "cid": "bafyreigzvfdyu7mrfhs2qefsuk5oaseeyrp6rsprze2s3hqmeuuomntkhi",
+                          "uri": "at://did:plc:n7uuvsa3a2clphrzoifnex74/app.bsky.feed.post/3l2zkjfuz4s2d"
+                      }
+                  },
+                  "text": "ta liberado"
+              },
+              "replyCount": 0,
+              "repostCount": 0,
+              "likeCount": 1,
+              "quoteCount": 0,
+              "indexedAt": "2024-08-31T15:15:43.807Z",
+              "labels": []
+          },
+          "reply": {
+              "root": {
+                  "$type": "app.bsky.feed.defs#postView",
+                  "uri": "at://did:plc:n7uuvsa3a2clphrzoifnex74/app.bsky.feed.post/3l2zkjfuz4s2d",
+                  "cid": "bafyreigzvfdyu7mrfhs2qefsuk5oaseeyrp6rsprze2s3hqmeuuomntkhi",
+                  "author": {
+                      "did": "did:plc:n7uuvsa3a2clphrzoifnex74",
+                      "handle": "srprogrammer.bsky.social",
+                      "displayName": "srProgrammer",
+                      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:n7uuvsa3a2clphrzoifnex74/bafkreifazwvy4tqxco3i56emyyldco7hb5ccbb33mkux6kff6njixrsqde@jpeg",
+                      "associated": {
+                          "chat": {
+                              "allowIncoming": "all"
+                          }
+                      },
+                      "labels": [],
+                      "createdAt": "2023-03-06T23:16:44.055Z"
+                  },
+                  "record": {
+                      "$type": "app.bsky.feed.post",
+                      "createdAt": "2024-08-31T15:11:19.597Z",
+                      "facets": [
+                          {
+                              "features": [
+                                  {
+                                      "$type": "app.bsky.richtext.facet#tag",
+                                      "tag": "bolhadev"
+                                  }
+                              ],
+                              "index": {
+                                  "byteEnd": 42,
+                                  "byteStart": 33
+                              }
+                          }
+                      ],
+                      "langs": [
+                          "en"
+                      ],
+                      "text": "pode fumar maconha aqui tb ????\n\n#bolhadev"
+                  },
+                  "replyCount": 9,
+                  "repostCount": 3,
+                  "likeCount": 45,
+                  "quoteCount": 0,
+                  "indexedAt": "2024-08-31T15:11:19.597Z",
+                  "labels": []
+              },
+              "parent": {
+                  "$type": "app.bsky.feed.defs#postView",
+                  "uri": "at://did:plc:n7uuvsa3a2clphrzoifnex74/app.bsky.feed.post/3l2zkjfuz4s2d",
+                  "cid": "bafyreigzvfdyu7mrfhs2qefsuk5oaseeyrp6rsprze2s3hqmeuuomntkhi",
+                  "author": {
+                      "did": "did:plc:n7uuvsa3a2clphrzoifnex74",
+                      "handle": "srprogrammer.bsky.social",
+                      "displayName": "srProgrammer",
+                      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:n7uuvsa3a2clphrzoifnex74/bafkreifazwvy4tqxco3i56emyyldco7hb5ccbb33mkux6kff6njixrsqde@jpeg",
+                      "associated": {
+                          "chat": {
+                              "allowIncoming": "all"
+                          }
+                      },
+                      "labels": [],
+                      "createdAt": "2023-03-06T23:16:44.055Z"
+                  },
+                  "record": {
+                      "$type": "app.bsky.feed.post",
+                      "createdAt": "2024-08-31T15:11:19.597Z",
+                      "facets": [
+                          {
+                              "features": [
+                                  {
+                                      "$type": "app.bsky.richtext.facet#tag",
+                                      "tag": "bolhadev"
+                                  }
+                              ],
+                              "index": {
+                                  "byteEnd": 42,
+                                  "byteStart": 33
+                              }
+                          }
+                      ],
+                      "langs": [
+                          "en"
+                      ],
+                      "text": "pode fumar maconha aqui tb ????\n\n#bolhadev"
+                  },
+                  "replyCount": 9,
+                  "repostCount": 3,
+                  "likeCount": 45,
+                  "quoteCount": 0,
+                  "indexedAt": "2024-08-31T15:11:19.597Z",
+                  "labels": []
+              }
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:qdneej3fl56rmv76sy2g6ys4/app.bsky.feed.post/3l2xlux6io32q",
+              "cid": "bafyreideotcrxbrmthbdf3ni7vprttwjtj2gzgdg2h6dpnqgrs23au7bja",
+              "author": {
+                  "did": "did:plc:qdneej3fl56rmv76sy2g6ys4",
+                  "handle": "catita.bsky.social",
+                  "displayName": "catita",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qdneej3fl56rmv76sy2g6ys4/bafkreifm53lhjii4zacegu27bmwtavvbqbpbyyx7pxrhja4q6ldr7nyopi@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "all"
+                      }
+                  },
+                  "labels": [
+                      {
+                          "src": "did:plc:qdneej3fl56rmv76sy2g6ys4",
+                          "uri": "at://did:plc:qdneej3fl56rmv76sy2g6ys4/app.bsky.actor.profile/self",
+                          "cid": "bafyreib7xba6k65jnlc6kqbvemcps4ibzo767ruocpiwm75eq2pf6wc4am",
+                          "val": "!no-unauthenticated",
+                          "cts": "1970-01-01T00:00:00.000Z"
+                      }
+                  ],
+                  "createdAt": "2023-07-01T18:39:22.098Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-08-30T20:30:21.254Z",
+                  "embed": {
+                      "$type": "app.bsky.embed.images",
+                      "images": [
+                          {
+                              "alt": "",
+                              "aspectRatio": {
+                                  "height": 400,
+                                  "width": 600
+                              },
+                              "image": {
+                                  "$type": "blob",
+                                  "ref": {
+                                      "$link": "bafkreiesfngcbcyyk7qly42dyjwwzqyx7whzgf7ikv5dd26fb6hmxnljh4"
+                                  },
+                                  "mimeType": "image/jpeg",
+                                  "size": 193607
+                              }
+                          }
+                      ]
+                  },
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "não tem propaganda de tigrinho aqui"
+              },
+              "embed": {
+                  "$type": "app.bsky.embed.images#view",
+                  "images": [
+                      {
+                          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qdneej3fl56rmv76sy2g6ys4/bafkreiesfngcbcyyk7qly42dyjwwzqyx7whzgf7ikv5dd26fb6hmxnljh4@jpeg",
+                          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qdneej3fl56rmv76sy2g6ys4/bafkreiesfngcbcyyk7qly42dyjwwzqyx7whzgf7ikv5dd26fb6hmxnljh4@jpeg",
+                          "alt": "",
+                          "aspectRatio": {
+                              "height": 400,
+                              "width": 600
+                          }
+                      }
+                  ]
+              },
+              "replyCount": 385,
+              "repostCount": 6960,
+              "likeCount": 23340,
+              "quoteCount": 542,
+              "indexedAt": "2024-08-30T20:30:21.254Z",
+              "labels": []
+          },
+          "reason": {
+              "$type": "app.bsky.feed.defs#reasonRepost",
+              "by": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "indexedAt": "2024-08-31T12:18:30.797Z"
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l2yethnn5e2w",
+              "cid": "bafyreigkyysnq5f6ub66esdkyzmscizyttw72tpqtqbmyo6lz56rfenmhe",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-08-31T03:56:54.924Z",
+                  "langs": [
+                      "pt"
+                  ],
+                  "reply": {
+                      "parent": {
+                          "cid": "bafyreihqc43ty6mtgbbwqph55d6qqey2bans7e7akulc5fhccrcii7sjnq",
+                          "uri": "at://did:plc:d4tccovnkmdokysf3mnyq2yd/app.bsky.feed.post/3l2yertlpqb2l"
+                      },
+                      "root": {
+                          "cid": "bafyreihq6u6hn6rk7ldugwvt3uu57x4llrkiw4ygoejwbvt3rvht6qivxe",
+                          "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l2ydq73rhz27"
+                      }
+                  },
+                  "text": "foi só elogiar que começou a dar BO"
+              },
+              "replyCount": 0,
+              "repostCount": 0,
+              "likeCount": 0,
+              "quoteCount": 0,
+              "indexedAt": "2024-08-31T03:56:54.924Z",
+              "labels": []
+          },
+          "reply": {
+              "root": {
+                  "$type": "app.bsky.feed.defs#postView",
+                  "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l2ydq73rhz27",
+                  "cid": "bafyreihq6u6hn6rk7ldugwvt3uu57x4llrkiw4ygoejwbvt3rvht6qivxe",
+                  "author": {
+                      "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                      "handle": "andrwr.bsky.social",
+                      "displayName": "andré",
+                      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                      "associated": {
+                          "chat": {
+                              "allowIncoming": "following"
+                          }
+                      },
+                      "labels": [],
+                      "createdAt": "2024-04-07T20:14:33.329Z"
+                  },
+                  "record": {
+                      "$type": "app.bsky.feed.post",
+                      "createdAt": "2024-08-31T03:37:11.529Z",
+                      "langs": [
+                          "pt"
+                      ],
+                      "text": "até q essa rede n é tão ruim"
+                  },
+                  "replyCount": 1,
+                  "repostCount": 2,
+                  "likeCount": 2,
+                  "quoteCount": 0,
+                  "indexedAt": "2024-08-31T03:37:11.529Z",
+                  "labels": []
+              },
+              "parent": {
+                  "$type": "app.bsky.feed.defs#notFoundPost",
+                  "uri": "at://did:plc:d4tccovnkmdokysf3mnyq2yd/app.bsky.feed.post/3l2yertlpqb2l",
+                  "notFound": true
+              }
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l2yepa3sk72m",
+              "cid": "bafyreiamybiduzaafvkd6rdrnvinx5j65pmwarss73kcsa2vbniltnx7fy",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-08-31T03:54:32.789Z",
+                  "langs": [
+                      "pt"
+                  ],
+                  "reply": {
+                      "parent": {
+                          "cid": "bafyreifmdnczgii7ds4nizwzizhh7id4yu4majvwsde645s4chw5dx6gwq",
+                          "uri": "at://did:plc:czbu6efnzaidyha5g4ycgxc4/app.bsky.feed.post/3l2ydy3ejvf2p"
+                      },
+                      "root": {
+                          "cid": "bafyreifmdnczgii7ds4nizwzizhh7id4yu4majvwsde645s4chw5dx6gwq",
+                          "uri": "at://did:plc:czbu6efnzaidyha5g4ycgxc4/app.bsky.feed.post/3l2ydy3ejvf2p"
+                      }
+                  },
+                  "text": "devagar chega"
+              },
+              "replyCount": 0,
+              "repostCount": 0,
+              "likeCount": 1,
+              "quoteCount": 0,
+              "indexedAt": "2024-08-31T03:54:32.789Z",
+              "labels": []
+          },
+          "reply": {
+              "root": {
+                  "$type": "app.bsky.feed.defs#postView",
+                  "uri": "at://did:plc:czbu6efnzaidyha5g4ycgxc4/app.bsky.feed.post/3l2ydy3ejvf2p",
+                  "cid": "bafyreifmdnczgii7ds4nizwzizhh7id4yu4majvwsde645s4chw5dx6gwq",
+                  "author": {
+                      "did": "did:plc:czbu6efnzaidyha5g4ycgxc4",
+                      "handle": "oprimo.dev",
+                      "displayName": "🤖 Mendigo de Software",
+                      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:czbu6efnzaidyha5g4ycgxc4/bafkreifbwoea6knyuw25d5w4litzzh7ovilfhpox5b2vlyxtzhuzu5zrry@jpeg",
+                      "associated": {
+                          "chat": {
+                              "allowIncoming": "following"
+                          }
+                      },
+                      "labels": [],
+                      "createdAt": "2023-04-23T04:04:12.403Z"
+                  },
+                  "record": {
+                      "$type": "app.bsky.feed.post",
+                      "createdAt": "2024-08-31T03:41:35.758Z",
+                      "langs": [
+                          "pt"
+                      ],
+                      "text": "bolha dev chegou aqui já?"
+                  },
+                  "replyCount": 49,
+                  "repostCount": 1,
+                  "likeCount": 183,
+                  "quoteCount": 2,
+                  "indexedAt": "2024-08-31T03:41:35.758Z",
+                  "labels": []
+              },
+              "parent": {
+                  "$type": "app.bsky.feed.defs#postView",
+                  "uri": "at://did:plc:czbu6efnzaidyha5g4ycgxc4/app.bsky.feed.post/3l2ydy3ejvf2p",
+                  "cid": "bafyreifmdnczgii7ds4nizwzizhh7id4yu4majvwsde645s4chw5dx6gwq",
+                  "author": {
+                      "did": "did:plc:czbu6efnzaidyha5g4ycgxc4",
+                      "handle": "oprimo.dev",
+                      "displayName": "🤖 Mendigo de Software",
+                      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:czbu6efnzaidyha5g4ycgxc4/bafkreifbwoea6knyuw25d5w4litzzh7ovilfhpox5b2vlyxtzhuzu5zrry@jpeg",
+                      "associated": {
+                          "chat": {
+                              "allowIncoming": "following"
+                          }
+                      },
+                      "labels": [],
+                      "createdAt": "2023-04-23T04:04:12.403Z"
+                  },
+                  "record": {
+                      "$type": "app.bsky.feed.post",
+                      "createdAt": "2024-08-31T03:41:35.758Z",
+                      "langs": [
+                          "pt"
+                      ],
+                      "text": "bolha dev chegou aqui já?"
+                  },
+                  "replyCount": 49,
+                  "repostCount": 1,
+                  "likeCount": 183,
+                  "quoteCount": 2,
+                  "indexedAt": "2024-08-31T03:41:35.758Z",
+                  "labels": []
+              }
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l2yekozpjg22",
+              "cid": "bafyreibzkl2bw2lpp4zes2zkmo6icqihh4kqrdwnb2sfuz6zd5xghc65em",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-08-31T03:52:00.670Z",
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "desafio agora é encontrar a galera da outra rede aqui"
+              },
+              "replyCount": 0,
+              "repostCount": 1,
+              "likeCount": 2,
+              "quoteCount": 0,
+              "indexedAt": "2024-08-31T03:52:00.670Z",
+              "labels": []
+          }
+      },
+      {
+          "post": {
+              "uri": "at://did:plc:mb2dpotzlvabhu7jifkjnibn/app.bsky.feed.post/3l2ydq73rhz27",
+              "cid": "bafyreihq6u6hn6rk7ldugwvt3uu57x4llrkiw4ygoejwbvt3rvht6qivxe",
+              "author": {
+                  "did": "did:plc:mb2dpotzlvabhu7jifkjnibn",
+                  "handle": "andrwr.bsky.social",
+                  "displayName": "andré",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb2dpotzlvabhu7jifkjnibn/bafkreid7r4p4xoaghonvh4pyk6x53x76mue6gxop5aqckzh3qr2fjzfwr4@jpeg",
+                  "associated": {
+                      "chat": {
+                          "allowIncoming": "following"
+                      }
+                  },
+                  "labels": [],
+                  "createdAt": "2024-04-07T20:14:33.329Z"
+              },
+              "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-08-31T03:37:11.529Z",
+                  "langs": [
+                      "pt"
+                  ],
+                  "text": "até q essa rede n é tão ruim"
+              },
+              "replyCount": 1,
+              "repostCount": 2,
+              "likeCount": 2,
+              "quoteCount": 0,
+              "indexedAt": "2024-08-31T03:37:11.529Z",
+              "labels": []
+          }
+      }
+  ]
+}
