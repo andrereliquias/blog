@@ -7,7 +7,7 @@
 		<h1 class="font-bold">projects</h1>
 
 		<ul class="list-disc list-outside md:list-inside">
-			<li><a href="/projects/pt-hate-speech-detection">Portuguese  Hate speech detection</a></li>
+			<li><a href="/projects/pt-hate-speech-detection">Portuguese Hate Speech Detection</a></li>
 		</ul>
 	</div>
 </CustomSection>

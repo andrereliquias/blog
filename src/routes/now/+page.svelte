@@ -110,7 +110,7 @@
 				<li>Studying (quite a lot)</li>
 				<li>Building this site (no much progress though)</li>
 				<li>Trying to find time to go back to the gym and run</li>
-				<li>Looking for a new psychologist</li>
+				<li>Looking for a new psychologist/psychiatrist in the new city</li>
 				<li>
 					<a
 						href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
