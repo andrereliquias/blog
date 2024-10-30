@@ -31,7 +31,7 @@
 		"postcss": "^8.4.47",
 		"prettier": "^3.3.3",
 		"prettier-plugin-svelte": "^3.2.7",
-		"svelte": "^5.1.4",
+		"svelte": "^5.1.6",
 		"svelte-check": "^4.0.5",
 		"svelte-sonner": "^0.3.28",
 		"tailwind-merge": "^2.5.4",
@@ -48,7 +48,7 @@
 		"cheerio": "^1.0.0",
 		"d3-scale": "^4.0.2",
 		"date-fns": "^4.1.0",
-		"layerchart": "^0.55.0",
+		"layerchart": "^0.57.0",
 		"xml-js": "^1.6.11"
 	},
   "optionalDependencies": {
