@@ -8,6 +8,7 @@
 
 		<ul class="list-disc list-outside md:list-inside">
 			<li><a href="/projects/pt-hate-speech-detection">Portuguese Hate Speech Detection</a></li>
+			<li><a href="/projects/mango-classifier">Mango classifier</a></li>
 		</ul>
 	</div>
 </CustomSection>
