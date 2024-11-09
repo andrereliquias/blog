@@ -47,7 +47,6 @@
 	"dependencies": {
 		"@sveltejs/adapter-cloudflare": "^4.7.4",
 		"axios": "^1.7.7",
-		"buffer": "^6.0.3",
 		"cheerio": "^1.0.0",
 		"d3-scale": "^4.0.2",
 		"date-fns": "^4.1.0",
