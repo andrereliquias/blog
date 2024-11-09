@@ -25,9 +25,9 @@ export const POST: RequestHandler = async ({ request }) => {
 
     // Send the image to the FastAPI endpoint using axios
     const response = await axios.post('http://ec2-3-88-114-124.compute-1.amazonaws.com:8080/classify-mango', form, {
-      headers: {
-        ...form.getHeaders(),
-      },
+      // headers: {
+      //   ...form.getHeaders(),
+      // },
     });
 
     if (response.status === 200) {

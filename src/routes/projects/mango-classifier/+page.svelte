@@ -204,17 +204,17 @@
 				<div class="flex flex-col p-4">
 					<div class="grid w-full gap-2">
 						{#if !capturedImage}
-							<video bind:this={videoElement} autoplay playsinline aria-label="Camera feed">
+							<video class="justify-self-center" bind:this={videoElement} autoplay playsinline aria-label="Camera feed">
 								<track kind="captions" srclang="en" label="English captions" />
 							</video>
 							<Button on:click={capturePhoto}>Capture Photo</Button>
 						{:else if !$videoResult?.classe_predita}
-							<img src={capturedImage} alt="Captured photo" />
+							<img class="justify-self-center" src={capturedImage} alt="Captured photo" />
 							<Button on:click={handleSendCapturedImage} disabled={isLoadingVideo}
 								>{isLoadingVideo ? 'Processing...' : 'Send for processing'}</Button
 							>
 						{:else}
-							<img src={capturedImage} alt="Captured photo" />
+							<img class="justify-self-center" src={capturedImage} alt="Captured photo" />
 							<Button on:click={handleResetCapturedImage} disabled={isLoadingVideo}
 								>Take another picture</Button
 							>
@@ -244,7 +244,7 @@
 					<div class="grid w-full gap-2">
 						<Input type="file" accept="image/*" on:change={handleFileChange} />
 						{#if selectedImageURL}
-							<img src={selectedImageURL} alt="Selected photo" />
+							<img class="justify-self-center" src={selectedImageURL} alt="Selected photo" />
 							<Button on:click={handleSendSelectedFile} disabled={isLoadingSelected}
 								>{isLoadingSelected ? 'Processing...' : 'Send for processing'}</Button
 							>
