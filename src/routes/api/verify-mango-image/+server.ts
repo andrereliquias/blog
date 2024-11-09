@@ -22,12 +22,12 @@ export const POST: RequestHandler = async ({ request }) => {
     // Create a new FormData instance
     const form = new FormData();
     form.append('file', buffer, { filename: file.name, contentType: file.type });
-
+		console.log('form',  form)
     // Send the image to the FastAPI endpoint using axios
     const response = await axios.post('http://ec2-3-88-114-124.compute-1.amazonaws.com:8080/classify-mango', form, {
-      // headers: {
-      //   ...form.getHeaders(),
-      // },
+      headers: {
+        ...form.getHeaders(),
+      },
     });
 
     if (response.status === 200) {
