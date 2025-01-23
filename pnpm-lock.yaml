@@ -34,6 +34,9 @@ importers:
         specifier: ^4.28.1
         version: 4.31.0
     devDependencies:
+      '@layerstack/tailwind':
+        specifier: ^0.0.11
+        version: 0.0.11
       '@layerstack/utils':
         specifier: ^0.0.7
         version: 0.0.7

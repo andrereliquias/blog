@@ -16,6 +16,7 @@
 		"format": "prettier --write ."
 	},
 	"devDependencies": {
+		"@layerstack/tailwind": "^0.0.11",
 		"@layerstack/utils": "^0.0.7",
 		"@sveltejs/adapter-auto": "^3.3.1",
 		"@sveltejs/kit": "^2.11.1",
