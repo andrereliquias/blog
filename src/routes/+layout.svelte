@@ -19,13 +19,25 @@
 	});
 </script>
 
-<div class="flex flex-col mx-auto w-72 md:w-5/12 text-base gap-y-8 text-justify my-10">
-	{#if !isFullScreen}
+<!-- <div class="flex flex-col mx-auto w-72 md:w-5/12 text-base gap-y-8 text-justify my-10"> -->
+<div class="flex flex-col h-screen">
+	<!-- {#if !isFullScreen}
 		<Header />
-	{/if}
+	{/if} -->
 
-	<main>
-		{@render children?.()}
+	<!-- remover a class do main -->
+	<main class="flex items-center justify-center h-screen w-full"> 
+		<!-- {@render children?.()} -->
+		<div>
+
+			<div class="text-center">
+				<!-- <h1>find</h1> -->
+				<p>find@minari.xyz</p>
+			</div>
+
+		</div>
+
+
 	</main>
 
 	<!-- <footer>
