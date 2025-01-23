@@ -34,6 +34,9 @@ importers:
         specifier: ^4.28.1
         version: 4.31.0
     devDependencies:
+      '@layerstack/utils':
+        specifier: ^0.0.7
+        version: 0.0.7
       '@sveltejs/adapter-auto':
         specifier: ^3.3.1
         version: 3.3.1(@sveltejs/kit@2.16.1(@sveltejs/vite-plugin-svelte@4.0.4(svelte@5.19.2)(vite@5.4.14(@types/node@22.10.7)(lightningcss@1.29.1)))(svelte@5.19.2)(vite@5.4.14(@types/node@22.10.7)(lightningcss@1.29.1)))
