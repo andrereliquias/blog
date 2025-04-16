@@ -25,22 +25,22 @@ Depending on the platform where you plan to deploy the application, you may need
 
 # Roadmap
 
-- <input type="checkbox" disabled checked> Add Open Graph<br>
+- [x] Add Open Graph
 
-- <input type="checkbox" disabled checked> Configure sitemap and static elements (icons, robots.txt, webmanifest)<br>
+- [x] Configure sitemap and static elements (icons, robots.txt, webmanifest)
 
-- <input type="checkbox" disabled checked> Create the homepage<br>
+- [x] Create the homepage
 
-- <input type="checkbox" disabled checked> Create the /now page<br>
+- [x] Create the /now page
 
-  - <input type="checkbox" disabled checked> Integrate external data to display details about music, movies, and books<br>
+  - [x] Integrate external data to display details about music, movies, and books
 
-- <input type="checkbox" disabled> Create the /posts page<br>
+- [ ] Create the /posts page
 
-  - <input type="checkbox" disabled> Allow posts to be created from Markdown files<br>
+  - [ ] Allow posts to be created from Markdown files
 
-- <input type="checkbox" disabled> Create the /lists page<br>
+- [ ] Create the /lists page
 
-- <input type="checkbox" disabled> Create the /projects page<br>
+- [ ] Create the /projects page
 
-- <input type="checkbox" disabled> Create the /rss page<br>
+- [ ] Create the /rss page
