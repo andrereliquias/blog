@@ -27,7 +27,7 @@
 
 <section class="flex flex-col gap-5">
 	{#if canGoBack && previousPage}
-		<button onclick={goBack} class="w-fit text-blue-600 hover:text-blue-800 hover:underline"
+		<button onclick={goBack} class="w-fit text-blue-600 hover:text-blue-800 hover:underline cursor-pointer"
 			>← go back</button
 		>
 	{/if}
