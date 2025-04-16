@@ -1,8 +1,8 @@
 <section class="flex flex-col gap-5">
 	<h1>Hey there 👋</h1>
 	<p>
-		I'm a 23-year-old computer engineer based in Brazil. I've been working as a software engineer
-		for over 3 years. I'm currently studying a master's degree in computer science, focusing the
+		I'm a 24-year-old computer engineer based in Brazil. I've been working as a software engineer
+		for over 4 years. I'm currently studying a master's degree in computer science, focusing the
 		research on time series data mining. I'm also doing an MBA in software engineering. If you want
 		to reach out, feel free to contact me through my email:
 		<a href="mailto:hi@minari.xyz">hi@minari.xyz</a> or my

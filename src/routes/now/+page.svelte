@@ -83,7 +83,7 @@
 <CustomSection>
 	<div>
 		<h1 class="font-bold">now</h1>
-		<span>Last update: {format(new Date('2024-10-13T00:12:19.888Z'), 'yyyy-MM-dd hh:mm a')}.</span>
+		<span>Last update: {format(new Date('2025-04-16T02:59:30.458Z'), 'yyyy-MM-dd hh:mm a')}.</span>
 
 		<p class="mt-2">
 			This is my now page. Don't you know what that is? Look at
@@ -97,34 +97,7 @@
 		<h2 class="font-bold">currently</h2>
 		<span>
 			<ul class="list-disc list-outside md:list-inside">
-				<li>Living in São Carlos, SP, Brazil</li>
-				<li>
-					Cooking new things at <a
-						href="https://www.greatpeople.com.br/"
-						target="_blank"
-						rel="noopener noreferrer">Great People</a
-					>
-					+
-					<a href="https://gptw.com.br/" target="_blank" rel="noopener noreferrer">GPTW</a> ecosystem
-				</li>
-				<li>Studying (quite a lot)</li>
-				<li>Building this site (no much progress though)</li>
-				<li>Trying to find time to go back to the gym and run</li>
-				<li>Looking for a new psychologist</li>
-				<li>
-					<a
-						href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-						target="_blank"
-						rel="noopener noreferrer">[?]</a
-					>
-				</li>
-				<li>
-					<a
-						href="https://www.instagram.com/p/C67eF4ZNLCM/?img_index=2"
-						target="_blank"
-						rel="noopener noreferrer">[?] 2</a
-					>
-				</li>
+				<li>Surviving</li>
 			</ul>
 		</span>
 	</div>

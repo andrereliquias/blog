@@ -31,8 +31,8 @@
 		</ul>
 	</nav>
 
-	<div class="mt-5">
+	<!-- <div class="mt-5">
 		<img src={underConstructionGif} alt="Under construction gif" width="459" height="28" />
-	</div>
+	</div> -->
 	<div id="app"></div>
 </header>
