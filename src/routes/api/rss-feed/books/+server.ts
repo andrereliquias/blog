@@ -14,12 +14,26 @@ export async function GET() {
 		const result = xml2js(xmlText, { compact: true }) as App.XmlResult;
 		const items: App.rssApiResponse[] = result.rss.channel.item
 			? result.rss.channel.item.map((item) => {
-					const descriptionCdata = item.description._cdata || '';
-					const $ = cheerio.load(descriptionCdata);
+					// Extrair texto limpo do CDATA usando cheerio
+					const descriptionCdata = item.description?._cdata || '';
+					const titleCdata = item.title?._cdata || '';
+
+					const $desc = cheerio.load(descriptionCdata);
+					const $title = cheerio.load(titleCdata);
+
+					// Remover HTML e manter apenas texto puro
+					const descriptionText = $desc.text().replace(/\s+/g, ' ').trim();
+					const titleText = $title.text().replace(/\s+/g, ' ').trim();
+
+					// Texto combinado para priorizar descrição
+					const combinedText = descriptionText || titleText;
+
+					// Substituir partes específicas do texto HTML por texto limpo
+					const finalText = combinedText.replace(/<.*?>/g, ''); // Remove quaisquer tags restantes
 
 					return {
-						title: $.text().trim().split('André')[1] || null,
-						date: item.pubDate?._text ? new Date(item.pubDate?._text).toISOString() : null
+						title: finalText || null,
+						date: item.pubDate?._text ? new Date(item.pubDate._text).toISOString() : null
 					};
 				})
 			: [];
