@@ -1,38 +1,46 @@
-# create-svelte
+# minari-blog
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+This project is a minimalist personal blog developed using the [SvelteKit](https://svelte.dev/) framework. Feel free to use it as a template if you wish.
 
-## Creating a project
+---
 
-If you're seeing this, you've probably already done this step. Congrats!
+## How to Run
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+1. Install the dependencies:
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+   ```bash
+   npm i
+   ```
 
-## Developing
+2. Run the project:
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+   ```bash
+   npm run dev
+   ```
 
-```bash
-npm run dev
+Note:
+Depending on the platform where you plan to deploy the application, you may need to update the adapter. Check the [adapters documentation](https://svelte.dev/docs/kit/adapters) for more details.
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+---
 
-## Building
+# Roadmap
 
-To create a production version of your app:
+- <input type="checkbox" disabled checked> Add Open Graph<br>
 
-```bash
-npm run build
-```
+- <input type="checkbox" disabled checked> Configure sitemap and static elements (icons, robots.txt, webmanifest)<br>
 
-You can preview the production build with `npm run preview`.
+- <input type="checkbox" disabled checked> Create the homepage<br>
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+- <input type="checkbox" disabled checked> Create the /now page<br>
+
+  - <input type="checkbox" disabled checked> Integrate external data to display details about music, movies, and books<br>
+
+- <input type="checkbox" disabled> Create the /posts page<br>
+
+  - <input type="checkbox" disabled> Allow posts to be created from Markdown files<br>
+
+- <input type="checkbox" disabled> Create the /lists page<br>
+
+- <input type="checkbox" disabled> Create the /projects page<br>
+
+- <input type="checkbox" disabled> Create the /rss page<br>
